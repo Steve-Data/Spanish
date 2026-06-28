@@ -2,7 +2,7 @@
 
 Updated: 2026-06-28
 
-Use these exact Spanish targets in today's Spanish practice. Work them naturally into questions, mini-dialogues, and correction exercises.
+Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
 1. **canaleta** - gutter; channel; drain
 2. **irrebatible** - irrefutable; impossible to refute or argue against

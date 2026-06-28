@@ -367,7 +367,7 @@ def render_markdown(selected: list[dict[str, Any]], today: dt.date) -> str:
         "",
         f"Updated: {today.isoformat()}",
         "",
-        "Use these exact Spanish targets in today's Spanish practice. Work them naturally into questions, mini-dialogues, and correction exercises.",
+        "Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.",
         "",
     ]
 
