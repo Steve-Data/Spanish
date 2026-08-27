@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-06-28",
-      "targets": [
-        "canaleta",
-        "irrebatible",
-        "embaucar",
-        "conmocionados",
-        "aniñada",
-        "instar",
-        "enfurruñarse",
-        "idónea",
-        "apresar",
-        "qué guachada"
-      ],
-      "generated_at": "2026-06-28T19:23:28"
-    },
-    {
       "date": "2026-06-29",
       "targets": [
         "canaleta",
@@ -959,6 +943,22 @@
         "por lo pronto"
       ],
       "generated_at": "2026-08-26T05:00:23"
+    },
+    {
+      "date": "2026-08-27",
+      "targets": [
+        "el derrotero",
+        "azorado",
+        "atenazar",
+        "canaleta",
+        "desbocado",
+        "el barquinazo",
+        "dirimir",
+        "no venir a cuento",
+        "cobija",
+        "acatar una orden"
+      ],
+      "generated_at": "2026-08-27T05:00:23"
     }
   ]
 }
