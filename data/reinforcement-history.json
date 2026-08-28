@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-06-29",
-      "targets": [
-        "canaleta",
-        "embaucar",
-        "irrebatible",
-        "estar despachado",
-        "como mucho",
-        "flequillo",
-        "monaguillo",
-        "féretro",
-        "quijada",
-        "cochino"
-      ],
-      "generated_at": "2026-06-29T05:00:27"
-    },
-    {
       "date": "2026-06-30",
       "targets": [
         "canaleta",
@@ -959,6 +943,22 @@
         "acatar una orden"
       ],
       "generated_at": "2026-08-27T05:00:23"
+    },
+    {
+      "date": "2026-08-28",
+      "targets": [
+        "azorado",
+        "estar despachado",
+        "atenazar",
+        "despedazados",
+        "amagar con hacer algo",
+        "el barquinazo",
+        "dentro de todo",
+        "repicar",
+        "despiadada",
+        "extraviada"
+      ],
+      "generated_at": "2026-08-28T05:00:23"
     }
   ]
 }
