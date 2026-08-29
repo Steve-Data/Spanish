@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-06-30",
-      "targets": [
-        "canaleta",
-        "irrebatible",
-        "estar despachado",
-        "tugurio",
-        "impericia",
-        "tan campante",
-        "a tropezones",
-        "encogidos",
-        "repicar",
-        "la chusma"
-      ],
-      "generated_at": "2026-06-30T05:00:28"
-    },
-    {
       "date": "2026-07-01",
       "targets": [
         "canaleta",
@@ -959,6 +943,22 @@
         "extraviada"
       ],
       "generated_at": "2026-08-28T05:00:23"
+    },
+    {
+      "date": "2026-08-29",
+      "targets": [
+        "estar despachado",
+        "azorado",
+        "atenazar",
+        "canaleta",
+        "desdeñosa",
+        "desde luego",
+        "acérrimo",
+        "berreta",
+        "entorpecer",
+        "a la par que"
+      ],
+      "generated_at": "2026-08-29T05:00:24"
     }
   ]
 }
