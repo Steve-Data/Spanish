@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-01",
-      "targets": [
-        "canaleta",
-        "pérfida",
-        "estar despachado",
-        "en ayunas",
-        "de un modo displicente",
-        "transeúnte",
-        "enfurruñarse",
-        "tozuda",
-        "afanarse",
-        "estruendoso"
-      ],
-      "generated_at": "2026-07-01T05:00:25"
-    },
-    {
       "date": "2026-07-02",
       "targets": [
         "amonestación",
@@ -959,6 +943,22 @@
         "a la par que"
       ],
       "generated_at": "2026-08-29T05:00:24"
+    },
+    {
+      "date": "2026-08-30",
+      "targets": [
+        "desaforado",
+        "estar despachado",
+        "azorado",
+        "andar a las corridas",
+        "retozar",
+        "encogidos",
+        "desde luego",
+        "por lo visto",
+        "replegarse",
+        "derrochar"
+      ],
+      "generated_at": "2026-08-30T05:00:23"
     }
   ]
 }
