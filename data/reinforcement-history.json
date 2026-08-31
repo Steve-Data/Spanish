@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-02",
-      "targets": [
-        "amonestación",
-        "canaleta",
-        "pérfida",
-        "enfrentados",
-        "conmocionados",
-        "energúmeno",
-        "azuzar",
-        "por lo pronto",
-        "encanecer",
-        "desvencijada"
-      ],
-      "generated_at": "2026-07-02T05:00:26"
-    },
-    {
       "date": "2026-07-03",
       "targets": [
         "amonestación",
@@ -959,6 +943,22 @@
         "derrochar"
       ],
       "generated_at": "2026-08-30T05:00:23"
+    },
+    {
+      "date": "2026-08-31",
+      "targets": [
+        "desaforado",
+        "estar despachado",
+        "atenazar",
+        "andar a las corridas",
+        "ociosas",
+        "darse pena a sí mismo",
+        "diseminados",
+        "berreta",
+        "revoloteaban",
+        "cobija"
+      ],
+      "generated_at": "2026-08-31T05:00:23"
     }
   ]
 }
