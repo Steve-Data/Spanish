@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-03",
-      "targets": [
-        "amonestación",
-        "canaleta",
-        "pérfida",
-        "dirimir",
-        "desdeñosa",
-        "descarriado",
-        "dimitir",
-        "vaticinar",
-        "pasmada",
-        "cochino"
-      ],
-      "generated_at": "2026-07-03T05:00:25"
-    },
-    {
       "date": "2026-07-04",
       "targets": [
         "amonestación",
@@ -959,6 +943,22 @@
         "cobija"
       ],
       "generated_at": "2026-08-31T05:00:23"
+    },
+    {
+      "date": "2026-09-01",
+      "targets": [
+        "desaforado",
+        "atenazar",
+        "estar despachado",
+        "verse abocado a",
+        "el barquinazo",
+        "idónea",
+        "engreído",
+        "desbocado",
+        "disparatado",
+        "aventajada"
+      ],
+      "generated_at": "2026-09-01T05:00:23"
     }
   ]
 }
