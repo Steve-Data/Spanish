@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-04",
-      "targets": [
-        "amonestación",
-        "canaleta",
-        "pérfida",
-        "como mucho",
-        "extrañada",
-        "concurrir",
-        "alborotado",
-        "ahínco",
-        "cobija",
-        "enfurruñarse"
-      ],
-      "generated_at": "2026-07-04T05:00:25"
-    },
-    {
       "date": "2026-07-05",
       "targets": [
         "amonestación",
@@ -959,6 +943,22 @@
         "aventajada"
       ],
       "generated_at": "2026-09-01T05:00:23"
+    },
+    {
+      "date": "2026-09-02",
+      "targets": [
+        "desaforado",
+        "atenazar",
+        "desperdigados",
+        "peripecias",
+        "calabozo",
+        "amagar con hacer algo",
+        "azuzar",
+        "desdichado",
+        "subastar",
+        "hurtar"
+      ],
+      "generated_at": "2026-09-02T05:00:23"
     }
   ]
 }
