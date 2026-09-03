@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-05",
-      "targets": [
-        "amonestación",
-        "despedazados",
-        "pérfida",
-        "estar despachado",
-        "aniñada",
-        "féretro",
-        "desdeñosa",
-        "apresurar",
-        "repicar",
-        "cochino"
-      ],
-      "generated_at": "2026-07-05T05:00:26"
-    },
-    {
       "date": "2026-07-06",
       "targets": [
         "amonestación",
@@ -959,6 +943,22 @@
         "hurtar"
       ],
       "generated_at": "2026-09-02T05:00:23"
+    },
+    {
+      "date": "2026-09-03",
+      "targets": [
+        "desaforado",
+        "atenazar",
+        "desperdigados",
+        "anonadado",
+        "extrañada",
+        "el derrotero",
+        "cobija",
+        "repicar",
+        "reacios",
+        "despampanante"
+      ],
+      "generated_at": "2026-09-03T05:00:23"
     }
   ]
 }
