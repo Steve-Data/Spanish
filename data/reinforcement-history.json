@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-06",
-      "targets": [
-        "amonestación",
-        "despedazados",
-        "pérfida",
-        "irrebatible",
-        "dejarse amilanar",
-        "no venir a cuento",
-        "pregunta capciosa",
-        "ensartar",
-        "arredrarse",
-        "dar un ramalazo de"
-      ],
-      "generated_at": "2026-07-06T05:00:26"
-    },
-    {
       "date": "2026-07-07",
       "targets": [
         "amonestación",
@@ -959,6 +943,22 @@
         "despampanante"
       ],
       "generated_at": "2026-09-03T05:00:23"
+    },
+    {
+      "date": "2026-09-04",
+      "targets": [
+        "desaforado",
+        "atenazar",
+        "desperdigados",
+        "pérfida",
+        "atrevida",
+        "alejamiento",
+        "en vilo",
+        "diseminados",
+        "derrochar",
+        "empañar"
+      ],
+      "generated_at": "2026-09-04T05:00:24"
     }
   ]
 }
