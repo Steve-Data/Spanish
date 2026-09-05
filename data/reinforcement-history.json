@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-07",
-      "targets": [
-        "amonestación",
-        "despedazados",
-        "canaleta",
-        "andanzas",
-        "irrebatible",
-        "recogido",
-        "monaguillo",
-        "señuelo",
-        "agazapado",
-        "pasmada"
-      ],
-      "generated_at": "2026-07-07T05:00:26"
-    },
-    {
       "date": "2026-07-08",
       "targets": [
         "despedazados",
@@ -959,6 +943,22 @@
         "empañar"
       ],
       "generated_at": "2026-09-04T05:00:24"
+    },
+    {
+      "date": "2026-09-05",
+      "targets": [
+        "desaforado",
+        "atenazar",
+        "desperdigados",
+        "causar estragos",
+        "erizarse",
+        "acérrimo",
+        "disparatado",
+        "parco",
+        "neblinoso",
+        "despampanante"
+      ],
+      "generated_at": "2026-09-05T05:00:24"
     }
   ]
 }
