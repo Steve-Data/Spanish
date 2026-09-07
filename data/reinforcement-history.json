@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-09",
-      "targets": [
-        "despedazados",
-        "escabroso",
-        "canaleta",
-        "como mucho",
-        "embaucar",
-        "ahínco",
-        "de un modo displicente",
-        "recogido",
-        "hurtar",
-        "retozar"
-      ],
-      "generated_at": "2026-07-09T05:00:25"
-    },
-    {
       "date": "2026-07-10",
       "targets": [
         "despedazados",
@@ -959,6 +943,22 @@
         "diseminados"
       ],
       "generated_at": "2026-09-06T05:00:23"
+    },
+    {
+      "date": "2026-09-07",
+      "targets": [
+        "desaforado",
+        "verse abocado a",
+        "desperdigados",
+        "escamosa",
+        "estar a resguardo",
+        "acalambrarse",
+        "trastabillar",
+        "pasmada",
+        "dirimir",
+        "reacios"
+      ],
+      "generated_at": "2026-09-07T05:00:23"
     }
   ]
 }
