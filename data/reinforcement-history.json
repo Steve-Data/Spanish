@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-10",
-      "targets": [
-        "despedazados",
-        "anonadado",
-        "canaleta",
-        "darse pena a sí mismo",
-        "por lo pronto",
-        "dentro de todo",
-        "arredrar",
-        "azuzar",
-        "azorado",
-        "enfurruñarse"
-      ],
-      "generated_at": "2026-07-10T05:00:26"
-    },
-    {
       "date": "2026-07-11",
       "targets": [
         "despedazados",
@@ -959,6 +943,22 @@
         "reacios"
       ],
       "generated_at": "2026-09-07T05:00:23"
+    },
+    {
+      "date": "2026-09-08",
+      "targets": [
+        "desaforado",
+        "desperdigados",
+        "verse abocado a",
+        "combado",
+        "embestir",
+        "avistamientos",
+        "disparatado",
+        "tiritar",
+        "revoloteaban",
+        "avezado"
+      ],
+      "generated_at": "2026-09-08T05:00:23"
     }
   ]
 }
