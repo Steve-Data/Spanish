@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-12",
-      "targets": [
-        "despedazados",
-        "anonadado",
-        "como mucho",
-        "escabroso",
-        "en ayunas",
-        "desdichado",
-        "azuzar",
-        "copar",
-        "recluyeron",
-        "apresurar"
-      ],
-      "generated_at": "2026-07-12T05:00:26"
-    },
-    {
       "date": "2026-07-13",
       "targets": [
         "anonadado",
@@ -959,6 +943,22 @@
         "por despecho"
       ],
       "generated_at": "2026-09-09T05:00:23"
+    },
+    {
+      "date": "2026-09-10",
+      "targets": [
+        "la soltura",
+        "desaforado",
+        "verse abocado a",
+        "desperdigados",
+        "plasmar",
+        "el contrincante",
+        "combado",
+        "ociosas",
+        "irrebatible",
+        "aventar"
+      ],
+      "generated_at": "2026-09-10T05:00:24"
     }
   ]
 }
