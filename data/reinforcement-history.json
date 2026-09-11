@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-13",
-      "targets": [
-        "anonadado",
-        "despedazados",
-        "como mucho",
-        "extrañada",
-        "peripecias",
-        "estar despachado",
-        "escabroso",
-        "recogido",
-        "conmocionados",
-        "descarriado"
-      ],
-      "generated_at": "2026-07-13T05:00:34"
-    },
-    {
       "date": "2026-07-14",
       "targets": [
         "el resquicio",
@@ -959,6 +943,22 @@
         "aventar"
       ],
       "generated_at": "2026-09-10T05:00:24"
+    },
+    {
+      "date": "2026-09-11",
+      "targets": [
+        "la soltura",
+        "desaforado",
+        "verse abocado a",
+        "azorado",
+        "el barquinazo",
+        "estar despachado",
+        "peripecias",
+        "desmenuzar",
+        "dentro de todo",
+        "trastabillar"
+      ],
+      "generated_at": "2026-09-11T05:00:25"
     }
   ]
 }
