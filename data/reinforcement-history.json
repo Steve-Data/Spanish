@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-14",
-      "targets": [
-        "el resquicio",
-        "desbocado",
-        "anonadado",
-        "despedazados",
-        "enfrentados",
-        "ociosas",
-        "arredrarse",
-        "aflorar",
-        "idónea",
-        "magullar"
-      ],
-      "generated_at": "2026-07-14T05:00:26"
-    },
-    {
       "date": "2026-07-15",
       "targets": [
         "el resquicio",
@@ -959,6 +943,22 @@
         "trastabillar"
       ],
       "generated_at": "2026-09-11T05:00:25"
+    },
+    {
+      "date": "2026-09-12",
+      "targets": [
+        "la soltura",
+        "desaforado",
+        "verse abocado a",
+        "atenazar",
+        "escamosa",
+        "andar a las corridas",
+        "acalambrarse",
+        "encogidos",
+        "atrevida",
+        "avezado"
+      ],
+      "generated_at": "2026-09-12T05:00:23"
     }
   ]
 }
