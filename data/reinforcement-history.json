@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-15",
-      "targets": [
-        "el resquicio",
-        "desbocado",
-        "anonadado",
-        "empecinado",
-        "el aplomo",
-        "dirimir",
-        "alborotado",
-        "el apósito",
-        "replegarse",
-        "tan campante"
-      ],
-      "generated_at": "2026-07-15T05:00:26"
-    },
-    {
       "date": "2026-07-16",
       "targets": [
         "el resquicio",
@@ -959,6 +943,22 @@
         "avezado"
       ],
       "generated_at": "2026-09-12T05:00:23"
+    },
+    {
+      "date": "2026-09-13",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "verse abocado a",
+        "canaleta",
+        "estar reventado",
+        "el derrotero",
+        "desenfrenado",
+        "ahínco",
+        "aprobar",
+        "rajar"
+      ],
+      "generated_at": "2026-09-13T05:00:22"
     }
   ]
 }
