@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-17",
-      "targets": [
-        "el resquicio",
-        "desbocado",
-        "desperdigados",
-        "amonestación",
-        "embaucar",
-        "escabroso",
-        "ahínco",
-        "vaticinar",
-        "discurría",
-        "embestir"
-      ],
-      "generated_at": "2026-07-17T05:00:27"
-    },
-    {
       "date": "2026-07-18",
       "targets": [
         "desbocado",
@@ -959,6 +943,22 @@
         "azuzar"
       ],
       "generated_at": "2026-09-14T05:00:23"
+    },
+    {
+      "date": "2026-09-15",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "engreído",
+        "trinar",
+        "amonestación",
+        "descarriado",
+        "repicar",
+        "escabroso",
+        "dirimir",
+        "manada"
+      ],
+      "generated_at": "2026-09-15T05:00:24"
     }
   ]
 }
