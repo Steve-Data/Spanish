@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-18",
-      "targets": [
-        "desbocado",
-        "el resquicio",
-        "desperdigados",
-        "irrebatible",
-        "desenfrenado",
-        "obsequio",
-        "empatizar",
-        "pecaminoso",
-        "apresar",
-        "no venir a cuento"
-      ],
-      "generated_at": "2026-07-18T05:00:26"
-    },
-    {
       "date": "2026-07-19",
       "targets": [
         "desperdigados",
@@ -959,6 +943,22 @@
         "manada"
       ],
       "generated_at": "2026-09-15T05:00:24"
+    },
+    {
+      "date": "2026-09-16",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "engreído",
+        "el caño del arma",
+        "a duras penas",
+        "el canto del cisne",
+        "disparatado",
+        "empatizar",
+        "calabozo",
+        "pasmada"
+      ],
+      "generated_at": "2026-09-16T05:00:30"
     }
   ]
 }
