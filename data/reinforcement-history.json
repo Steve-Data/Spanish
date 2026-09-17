@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-19",
-      "targets": [
-        "desperdigados",
-        "desbocado",
-        "el resquicio",
-        "el barquinazo",
-        "pérfida",
-        "apabullante",
-        "energúmeno",
-        "en ayunas",
-        "entrever",
-        "tan campante"
-      ],
-      "generated_at": "2026-07-19T05:00:26"
-    },
-    {
       "date": "2026-07-20",
       "targets": [
         "desperdigados",
@@ -959,6 +943,22 @@
         "pasmada"
       ],
       "generated_at": "2026-09-16T05:00:30"
+    },
+    {
+      "date": "2026-09-17",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "engreído",
+        "verse abocado a",
+        "embaucar",
+        "el resquicio",
+        "agredido",
+        "ociosas",
+        "apresar",
+        "desbordado"
+      ],
+      "generated_at": "2026-09-17T05:00:31"
     }
   ]
 }
