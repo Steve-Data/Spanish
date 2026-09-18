@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-20",
-      "targets": [
-        "desperdigados",
-        "el resquicio",
-        "discurría",
-        "canaleta",
-        "ultrajar",
-        "andamiaje",
-        "apañarse con",
-        "pacata",
-        "farfullar",
-        "azorado"
-      ],
-      "generated_at": "2026-07-20T05:00:26"
-    },
-    {
       "date": "2026-07-21",
       "targets": [
         "desperdigados",
@@ -959,6 +943,22 @@
         "desbordado"
       ],
       "generated_at": "2026-09-17T05:00:31"
+    },
+    {
+      "date": "2026-09-18",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "engreído",
+        "el barquinazo",
+        "aplastado",
+        "extrañada",
+        "darse pena a sí mismo",
+        "causar estragos",
+        "atrevida",
+        "aventar"
+      ],
+      "generated_at": "2026-09-18T05:00:24"
     }
   ]
 }
