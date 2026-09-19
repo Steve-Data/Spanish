@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-21",
-      "targets": [
-        "desperdigados",
-        "discurría",
-        "el resquicio",
-        "con voz engolada",
-        "apabullante",
-        "dentro de todo",
-        "peripecias",
-        "desmenuzar",
-        "ventisquero",
-        "descarriado"
-      ],
-      "generated_at": "2026-07-21T05:00:27"
-    },
-    {
       "date": "2026-07-22",
       "targets": [
         "desperdigados",
@@ -959,6 +943,22 @@
         "aventar"
       ],
       "generated_at": "2026-09-18T05:00:24"
+    },
+    {
+      "date": "2026-09-19",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "olor a encierro",
+        "engreído",
+        "combado",
+        "apabullante",
+        "hacer tabla rasa",
+        "desde luego",
+        "estar abarrotado",
+        "acérrimo"
+      ],
+      "generated_at": "2026-09-19T05:00:23"
     }
   ]
 }
