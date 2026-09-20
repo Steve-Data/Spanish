@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-22",
-      "targets": [
-        "desperdigados",
-        "discurría",
-        "el resquicio",
-        "dirimir",
-        "manada",
-        "concurrir",
-        "darse pena a sí mismo",
-        "el cólico renal",
-        "embotado",
-        "chantajear"
-      ],
-      "generated_at": "2026-07-22T05:00:27"
-    },
-    {
       "date": "2026-07-23",
       "targets": [
         "desperdigados",
@@ -959,6 +943,22 @@
         "acérrimo"
       ],
       "generated_at": "2026-09-19T05:00:23"
+    },
+    {
+      "date": "2026-09-20",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "olor a encierro",
+        "desdeñosa",
+        "echarse atrás",
+        "estar despachado",
+        "pérfida",
+        "el canto del cisne",
+        "avispado",
+        "estar quebrado"
+      ],
+      "generated_at": "2026-09-20T05:00:24"
     }
   ]
 }
