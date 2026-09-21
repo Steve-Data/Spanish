@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-23",
-      "targets": [
-        "desperdigados",
-        "anonadado",
-        "el barquinazo",
-        "pérfida",
-        "oriunda",
-        "combado",
-        "embaucar",
-        "estar despachado",
-        "vaticinar",
-        "con una velocidad pasmosa"
-      ],
-      "generated_at": "2026-07-23T05:00:26"
-    },
-    {
       "date": "2026-07-24",
       "targets": [
         "el barquinazo",
@@ -959,6 +943,22 @@
         "estar quebrado"
       ],
       "generated_at": "2026-09-20T05:00:24"
+    },
+    {
+      "date": "2026-09-21",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "olor a encierro",
+        "desperdigados",
+        "increpar",
+        "jirón",
+        "azuzar",
+        "el canto del cisne",
+        "desde luego",
+        "dirimir"
+      ],
+      "generated_at": "2026-09-21T05:00:23"
     }
   ]
 }
