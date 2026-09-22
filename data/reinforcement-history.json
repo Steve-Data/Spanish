@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-24",
-      "targets": [
-        "el barquinazo",
-        "anonadado",
-        "desbocado",
-        "discurría",
-        "pérfida",
-        "escabroso",
-        "extrañada",
-        "subido de tono",
-        "por lo pronto",
-        "augurio"
-      ],
-      "generated_at": "2026-07-24T05:00:26"
-    },
-    {
       "date": "2026-07-25",
       "targets": [
         "el barquinazo",
@@ -959,6 +943,22 @@
         "dirimir"
       ],
       "generated_at": "2026-09-21T05:00:23"
+    },
+    {
+      "date": "2026-09-22",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "olor a encierro",
+        "hacer buches",
+        "pérfida",
+        "causar estragos",
+        "por despecho",
+        "idónea",
+        "estar reventado",
+        "embotado"
+      ],
+      "generated_at": "2026-09-22T05:00:24"
     }
   ]
 }
