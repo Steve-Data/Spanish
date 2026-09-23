@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-25",
-      "targets": [
-        "el barquinazo",
-        "anonadado",
-        "el resquicio",
-        "amonestación",
-        "con voz engolada",
-        "ociosas",
-        "desdeñosa",
-        "pasmada",
-        "arredrar",
-        "desplomarse"
-      ],
-      "generated_at": "2026-07-25T05:00:26"
-    },
-    {
       "date": "2026-07-26",
       "targets": [
         "el barquinazo",
@@ -959,6 +943,22 @@
         "embotado"
       ],
       "generated_at": "2026-09-22T05:00:24"
+    },
+    {
+      "date": "2026-09-23",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "hacer buches",
+        "el barquinazo",
+        "desbocado",
+        "farfullar",
+        "descarnado",
+        "a duras penas",
+        "escabroso",
+        "alejamiento"
+      ],
+      "generated_at": "2026-09-23T05:00:24"
     }
   ]
 }
