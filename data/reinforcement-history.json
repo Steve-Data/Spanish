@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-26",
-      "targets": [
-        "el barquinazo",
-        "anonadado",
-        "el resquicio",
-        "desbocado",
-        "desperdigados",
-        "calabozo",
-        "irrebatible",
-        "desdichado",
-        "apabullante",
-        "desafilar"
-      ],
-      "generated_at": "2026-07-26T05:00:26"
-    },
-    {
       "date": "2026-07-27",
       "targets": [
         "el barquinazo",
@@ -959,6 +943,22 @@
         "alejamiento"
       ],
       "generated_at": "2026-09-23T05:00:24"
+    },
+    {
+      "date": "2026-09-24",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "no dar pie con bola",
+        "el caño del arma",
+        "amonestación",
+        "estar reventado",
+        "qué guachada",
+        "atrevida",
+        "encabronado",
+        "estar abarrotado"
+      ],
+      "generated_at": "2026-09-24T05:00:24"
     }
   ]
 }
