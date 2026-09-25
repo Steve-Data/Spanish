@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-27",
-      "targets": [
-        "el barquinazo",
-        "anonadado",
-        "pérfida",
-        "dirimir",
-        "calabozo",
-        "vaticinar",
-        "transigir con",
-        "por lo visto",
-        "flequillo",
-        "obsequio"
-      ],
-      "generated_at": "2026-07-27T05:00:27"
-    },
-    {
       "date": "2026-07-28",
       "targets": [
         "el barquinazo",
@@ -959,6 +943,22 @@
         "estar abarrotado"
       ],
       "generated_at": "2026-09-24T05:00:24"
+    },
+    {
+      "date": "2026-09-25",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "no dar pie con bola",
+        "olor a encierro",
+        "engreído",
+        "refunfuñar",
+        "desperdigados",
+        "ociosas",
+        "el camorrista",
+        "internarse"
+      ],
+      "generated_at": "2026-09-25T05:00:30"
     }
   ]
 }
