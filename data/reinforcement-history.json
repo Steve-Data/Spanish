@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-28",
-      "targets": [
-        "el barquinazo",
-        "anonadado",
-        "pérfida",
-        "dirimir",
-        "manada",
-        "peripecias",
-        "subido de tono",
-        "derogar",
-        "avivar",
-        "descarriado"
-      ],
-      "generated_at": "2026-07-28T05:00:26"
-    },
-    {
       "date": "2026-07-29",
       "targets": [
         "el barquinazo",
@@ -959,6 +943,22 @@
         "internarse"
       ],
       "generated_at": "2026-09-25T05:00:30"
+    },
+    {
+      "date": "2026-09-26",
+      "targets": [
+        "desaforado",
+        "la soltura",
+        "una andanada",
+        "no dar pie con bola",
+        "alevoso",
+        "el camorrista",
+        "constatar",
+        "idónea",
+        "desdichado",
+        "atrevida"
+      ],
+      "generated_at": "2026-09-26T05:00:23"
     }
   ]
 }
