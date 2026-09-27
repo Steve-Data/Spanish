@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-29",
-      "targets": [
-        "el barquinazo",
-        "desbocado",
-        "anonadado",
-        "despedazados",
-        "desbordado",
-        "desdichado",
-        "está empeñado",
-        "ponzoñosa",
-        "choto",
-        "azuzar"
-      ],
-      "generated_at": "2026-07-29T05:00:27"
-    },
-    {
       "date": "2026-07-30",
       "targets": [
         "el barquinazo",
@@ -959,6 +943,22 @@
         "atrevida"
       ],
       "generated_at": "2026-09-26T05:00:23"
+    },
+    {
+      "date": "2026-09-27",
+      "targets": [
+        "atenazar",
+        "desaforado",
+        "un vericueto",
+        "una andanada",
+        "anonadado",
+        "porfiada",
+        "repantigadas",
+        "pérfida",
+        "dirimir",
+        "acoplarse"
+      ],
+      "generated_at": "2026-09-27T05:00:25"
     }
   ]
 }
