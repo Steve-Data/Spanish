@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-31",
-      "targets": [
-        "desbocado",
-        "el barquinazo",
-        "el resquicio",
-        "canaleta",
-        "empecinado",
-        "desbordado",
-        "combado",
-        "subido de tono",
-        "alejamiento",
-        "entrever"
-      ],
-      "generated_at": "2026-07-31T05:00:26"
-    },
-    {
       "date": "2026-08-01",
       "targets": [
         "desbocado",
@@ -959,6 +943,22 @@
         "alambrado"
       ],
       "generated_at": "2026-09-28T05:00:29"
+    },
+    {
+      "date": "2026-09-29",
+      "targets": [
+        "atenazar",
+        "un vericueto",
+        "la soltura",
+        "desbocado",
+        "refunfuñar",
+        "desperdigados",
+        "verse abocado a",
+        "el recorrido",
+        "estar reventado",
+        "constatar"
+      ],
+      "generated_at": "2026-09-29T05:00:31"
     }
   ]
 }
