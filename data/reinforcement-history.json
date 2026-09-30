@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-01",
-      "targets": [
-        "desbocado",
-        "el barquinazo",
-        "el resquicio",
-        "dirimir",
-        "despeñarse",
-        "dejarse amilanar",
-        "transigir con",
-        "amonestación",
-        "correosa",
-        "concurrir"
-      ],
-      "generated_at": "2026-08-01T05:00:29"
-    },
-    {
       "date": "2026-08-02",
       "targets": [
         "desbocado",
@@ -959,6 +943,22 @@
         "constatar"
       ],
       "generated_at": "2026-09-29T05:00:31"
+    },
+    {
+      "date": "2026-09-30",
+      "targets": [
+        "atenazar",
+        "porfiada",
+        "desaforado",
+        "encarecidamente",
+        "un vericueto",
+        "refunfuñar",
+        "embaucar",
+        "causar estragos",
+        "por despecho",
+        "embestir"
+      ],
+      "generated_at": "2026-09-30T05:00:24"
     }
   ]
 }
