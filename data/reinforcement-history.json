@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-03",
-      "targets": [
-        "desbocado",
-        "el barquinazo",
-        "el resquicio",
-        "anonadado",
-        "oriunda",
-        "en ayunas",
-        "azorado",
-        "diseminados",
-        "andanzas",
-        "azuzar"
-      ],
-      "generated_at": "2026-08-03T05:00:28"
-    },
-    {
       "date": "2026-08-04",
       "targets": [
         "desbocado",
@@ -959,6 +943,22 @@
         "desplomarse"
       ],
       "generated_at": "2026-10-01T05:00:24"
+    },
+    {
+      "date": "2026-10-02",
+      "targets": [
+        "atenazar",
+        "la soltura",
+        "un vericueto",
+        "echar a perder",
+        "refunfuñar",
+        "no dar pie con bola",
+        "el caño del arma",
+        "pérfida",
+        "no estar para hacer algo",
+        "apabullante"
+      ],
+      "generated_at": "2026-10-02T05:00:24"
     }
   ]
 }
