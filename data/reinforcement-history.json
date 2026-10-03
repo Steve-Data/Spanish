@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-04",
-      "targets": [
-        "desbocado",
-        "el barquinazo",
-        "el resquicio",
-        "embaucar",
-        "idónea",
-        "vaticinar",
-        "el aplomo",
-        "desplomarse",
-        "cojonudo",
-        "avezado"
-      ],
-      "generated_at": "2026-08-04T05:00:25"
-    },
-    {
       "date": "2026-08-05",
       "targets": [
         "desbocado",
@@ -959,6 +943,22 @@
         "apabullante"
       ],
       "generated_at": "2026-10-02T05:00:24"
+    },
+    {
+      "date": "2026-10-03",
+      "targets": [
+        "atenazar",
+        "la soltura",
+        "echar a perder",
+        "remolcar",
+        "pasmada",
+        "azorado",
+        "qué guachada",
+        "alejamiento",
+        "obnubilarse",
+        "cabrear"
+      ],
+      "generated_at": "2026-10-03T05:00:24"
     }
   ]
 }
