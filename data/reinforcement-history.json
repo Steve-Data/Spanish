@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-05",
-      "targets": [
-        "desbocado",
-        "el barquinazo",
-        "el resquicio",
-        "despedazados",
-        "peripecias",
-        "idónea",
-        "combado",
-        "manada",
-        "dejarse amilanar",
-        "enfurruñarse"
-      ],
-      "generated_at": "2026-08-05T05:00:27"
-    },
-    {
       "date": "2026-08-06",
       "targets": [
         "desbocado",
@@ -959,6 +943,22 @@
         "cabrear"
       ],
       "generated_at": "2026-10-03T05:00:24"
+    },
+    {
+      "date": "2026-10-04",
+      "targets": [
+        "la soltura",
+        "atenazar",
+        "desaforado",
+        "combado",
+        "escamosa",
+        "hacer buches",
+        "abollado",
+        "embestir",
+        "descarnado",
+        "apañarse con"
+      ],
+      "generated_at": "2026-10-04T05:00:24"
     }
   ]
 }
