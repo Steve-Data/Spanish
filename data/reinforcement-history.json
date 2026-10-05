@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-06",
-      "targets": [
-        "desbocado",
-        "el barquinazo",
-        "el resquicio",
-        "estar despachado",
-        "desde luego",
-        "arañazos",
-        "obsequio",
-        "la coraza",
-        "ahínco",
-        "despiadada"
-      ],
-      "generated_at": "2026-08-06T05:00:27"
-    },
-    {
       "date": "2026-08-07",
       "targets": [
         "desbocado",
@@ -959,6 +943,22 @@
         "apañarse con"
       ],
       "generated_at": "2026-10-04T05:00:24"
+    },
+    {
+      "date": "2026-10-05",
+      "targets": [
+        "atenazar",
+        "desaforado",
+        "la soltura",
+        "echar a perder",
+        "el barquinazo",
+        "olor a encierro",
+        "verse abocado a",
+        "azorado",
+        "hacer oídos sordos a algo",
+        "avivar"
+      ],
+      "generated_at": "2026-10-05T05:00:24"
     }
   ]
 }
