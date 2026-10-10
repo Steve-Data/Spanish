@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-11",
-      "targets": [
-        "el barquinazo",
-        "desbocado",
-        "desperdigados",
-        "en ayunas",
-        "aniñada",
-        "empatizar",
-        "apresar",
-        "vaticinar",
-        "escabroso",
-        "por lo pronto"
-      ],
-      "generated_at": "2026-08-11T05:00:28"
-    },
-    {
       "date": "2026-08-12",
       "targets": [
         "desperdigados",
@@ -959,6 +943,22 @@
         "qué guachada"
       ],
       "generated_at": "2026-10-09T05:00:25"
+    },
+    {
+      "date": "2026-10-10",
+      "targets": [
+        "desbocado",
+        "un facón",
+        "la colilla",
+        "combado",
+        "una andanada",
+        "los andamios",
+        "escabroso",
+        "agredido",
+        "a destajo",
+        "subido de tono"
+      ],
+      "generated_at": "2026-10-10T05:00:24"
     }
   ]
 }
