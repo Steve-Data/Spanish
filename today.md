@@ -1,61 +1,60 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-10-10
+Updated: 2026-10-11
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
 1. **desbocado** - out of control; runaway; baggy
 2. **un facón** - a large gaucho knife (Arg)
-3. **la colilla** - cigarette butt
-4. **combado** - bent; bowed; warped
-5. **una andanada** - a barrage; a volley; a harsh reprimand
-6. **los andamios** - scaffolding; scaffolds
-7. **escabroso** - thorny; tricky; lurid; risqué; rough or treacherous
-8. **agredido** - attacked; assaulted (not: atacado)
-9. **a destajo** - intensely; without stopping; at top speed
-10. **subido de tono** - heated; intense; risqué, depending on context
+3. **desaforado** - frantic; unrestrained; out of control
+4. **atenazar** - to grip tightly; to hold in a painful or oppressive grip
+5. **un berretín** - a fixation; a whim; a pet ambition (Arg)
+6. **el barquinazo** - sudden lurch; jolt
+7. **empatizar** - to empathize; to relate to someone's feelings
+8. **a destajo** - intensely; without stopping; at top speed
+9. **regañadientes** - grudgingly; reluctantly
+10. **cabrear** - to anger; to piss off
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
 1. **desbocado**
-   - Why selected: 25 lifetime misses; recent miss 1d, 5d, 5d; 10 lapses; short 1d interval
+   - Why selected: 28 lifetime misses; recent miss 2d, 6d, 6d; 11 lapses; short 1d interval
    - Anki sentence: El caballo corrió desbocado por la calle.
 
 2. **un facón**
-   - Why selected: 11 lifetime misses; recent miss 3d, 9d, 14d; 3 lapses; short 1d interval
+   - Why selected: 12 lifetime misses; recent miss 4d, 10d, 15d; 4 lapses; short 1d interval
    - Anki sentence: Llevaba un facón envainado junto al cinturón.
 
-3. **la colilla**
-   - Why selected: 9 lifetime misses; recent miss 2d, 2d, 4d; 2 lapses; short 1d interval
-   - Anki sentence: Apagó la colilla antes de tirarla.
+3. **desaforado**
+   - Why selected: 22 lifetime misses; recent miss 9d, 12d, 22d; 10 lapses; short 1d interval
+   - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
-4. **combado**
-   - Base form: combar
-   - Why selected: 14 lifetime misses; recent miss 3d, 8d, 9d; 7 lapses; short 3d interval
-   - Anki sentence: El techo estaba combado por el peso de la nieve.
+4. **atenazar**
+   - Why selected: 19 lifetime misses; recent miss 15d, 15d, 15d; 6 lapses; short 4d interval
+   - Anki sentence: Un miedo intenso parecía atenazarle el pecho.
 
-5. **una andanada**
-   - Why selected: 8 lifetime misses; recent miss 16d, 20d, 20d; 3 lapses; short 6d interval
-   - Anki sentence: El anuncio provocó una andanada de críticas en cuestión de minutos.
+5. **un berretín**
+   - Why selected: 7 lifetime misses; recent miss 3d, 3d, 6d; 1 lapse; short 2d interval
+   - Anki sentence: Desde joven tenía un berretín con aprender a volar.
 
-6. **los andamios**
-   - Why selected: 4 lifetime misses; recent miss 2d, 3d, 3d; 1 lapse; short 2d interval
-   - Anki sentence: Los obreros caminaron entre los andamios de la obra.
+6. **el barquinazo**
+   - Why selected: 18 lifetime misses; recent miss 15d; 7 lapses; short 9d interval
+   - Anki sentence: De repente, se sintió el barquinazo del colectivo al doblar la esquina.
 
-7. **escabroso**
-   - Why selected: 15 lifetime misses; recent miss 12d, 12d, 12d; 6 lapses; short 3d interval
-   - Anki sentence: Era un asunto escabroso que nadie quería discutir.
+7. **empatizar**
+   - Why selected: 13 lifetime misses; recent miss 7d, 27d, 27d; 8 lapses; short 3d interval
+   - Anki sentence: Es bueno empatizar con los sentimientos de los demás para construir relaciones más fuertes.
 
-8. **agredido**
-   - Why selected: 23 lifetime misses; recent miss 22d, 27d; 11 lapses; short 8d interval
-   - Anki sentence: El hombre fue agredido en el parque, pero afortunadamente no sufrió heridas graves.
-
-9. **a destajo**
-   - Why selected: 7 lifetime misses; recent miss 3d, 4d; 3 lapses; short 4d interval
+8. **a destajo**
+   - Why selected: 7 lifetime misses; recent miss 4d, 5d; 3 lapses; short 4d interval
    - Anki sentence: Trabajaron a destajo para terminar antes del amanecer.
 
-10. **subido de tono**
-   - Why selected: 9 lifetime misses; recent miss 11d; 5 lapses; short 7d interval
-   - Anki sentence: Fue un comentario subido de tono delante de todos.
+9. **regañadientes**
+   - Why selected: 18 lifetime misses; recent miss 2d, 19d; 13 lapses; short 3d interval
+   - Anki sentence: Decidí ayudarle a mi hermano regañadientes porque no quería hacerlo.
+
+10. **cabrear**
+   - Why selected: 15 lifetime misses; recent miss 27d, 27d; 12 lapses; short 8d interval
+   - Anki sentence: No me cabrear con comentarios innecesarios.
