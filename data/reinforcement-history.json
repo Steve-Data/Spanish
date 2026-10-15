@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-16",
-      "targets": [
-        "desperdigados",
-        "atenazar",
-        "idónea",
-        "en ayunas",
-        "dirimir",
-        "irrebatible",
-        "encogidos",
-        "el resquicio",
-        "apresar",
-        "causar estragos"
-      ],
-      "generated_at": "2026-08-16T05:00:27"
-    },
-    {
       "date": "2026-08-17",
       "targets": [
         "desperdigados",
@@ -959,6 +943,22 @@
         "obnubilarse"
       ],
       "generated_at": "2026-10-14T05:00:27"
+    },
+    {
+      "date": "2026-10-15",
+      "targets": [
+        "desbocado",
+        "la colilla",
+        "desaforado",
+        "retozar",
+        "encarecidamente",
+        "olor a encierro",
+        "irrebatible",
+        "azuzar",
+        "alevoso",
+        "el contrincante"
+      ],
+      "generated_at": "2026-10-15T05:00:25"
     }
   ]
 }
