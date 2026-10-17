@@ -1,60 +1,60 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-10-16
+Updated: 2026-10-17
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
 1. **desbocado** - out of control; runaway; baggy
-2. **un facón** - a large gaucho knife (Arg)
-3. **la colilla** - cigarette butt
-4. **un vericueto** - a twist or turn; a complication; a winding path
-5. **una andanada** - a barrage; a volley; a harsh reprimand
-6. **extrañada** - surprised, puzzled, taken aback; not “missed”
-7. **tiritar** - to shiver; to tremble
-8. **la coraza** - armor; protective shell
-9. **escamosa** - scaly
-10. **aventar** - to throw/fling; to fan (blow air at)
+2. **la colilla** - cigarette butt
+3. **desaforado** - frantic; unrestrained; out of control
+4. **un facón** - a large gaucho knife (Arg)
+5. **la soltura** - ease; fluency; confident skill
+6. **remolcar** - to tow
+7. **no dar pie con bola** - to be unable to get anything right; to be completely at a loss
+8. **morador** - inhabitant; dweller; resident
+9. **apañarse con** - to manage with; to make do with; to get by with
+10. **engreído** - vain; conceited; stuck-up
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
 1. **desbocado**
-   - Why selected: 29 lifetime misses; recent miss 7d, 11d, 11d; 12 lapses; short 2d interval
+   - Why selected: 29 lifetime misses; recent miss 8d, 12d, 12d; 12 lapses; short 2d interval
    - Anki sentence: El caballo corrió desbocado por la calle.
 
-2. **un facón**
-   - Why selected: 12 lifetime misses; recent miss 9d, 15d, 20d; 4 lapses; short 2d interval
-   - Anki sentence: Llevaba un facón envainado junto al cinturón.
-
-3. **la colilla**
-   - Why selected: 12 lifetime misses; recent miss 8d, 8d, 10d; 4 lapses; short 2d interval
+2. **la colilla**
+   - Why selected: 12 lifetime misses; recent miss 9d, 9d, 11d; 4 lapses; short 2d interval
    - Anki sentence: Apagó la colilla antes de tirarla.
 
-4. **un vericueto**
-   - Why selected: 10 lifetime misses; recent miss 22d, 25d, 25d; 3 lapses; short 6d interval
-   - Anki sentence: El trámite terminó en un vericueto burocrático difícil de entender.
+3. **desaforado**
+   - Why selected: 22 lifetime misses; recent miss 9d, 15d, 18d; 10 lapses; short 3d interval
+   - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
-5. **una andanada**
-   - Why selected: 8 lifetime misses; recent miss 22d, 26d, 26d; 3 lapses; short 7d interval
-   - Anki sentence: El anuncio provocó una andanada de críticas en cuestión de minutos.
+4. **un facón**
+   - Why selected: 12 lifetime misses; recent miss 10d, 16d, 21d; 4 lapses; short 2d interval
+   - Anki sentence: Llevaba un facón envainado junto al cinturón.
 
-6. **extrañada**
-   - Why selected: 36 lifetime misses; recent miss 7d, 10d; 27 lapses; short 4d interval
-   - Anki sentence: Ella se siente extrañada al pensar en sus amigos que viven lejos.
+5. **la soltura**
+   - Why selected: 13 lifetime misses; recent miss 4d, 30d; 6 lapses; short 4d interval
+   - Anki sentence: Todos admiraban la soltura con la que tocaba el piano.
 
-7. **tiritar**
-   - Why selected: 7 lifetime misses; recent miss 3d, 3d; 5 lapses; short 2d interval
-   - Anki sentence: Ella empezó a tiritar, aterida de frío.
+6. **remolcar**
+   - Why selected: 8 lifetime misses; recent miss 19d, 19d, 19d; 2 lapses; short 10d interval
+   - Anki sentence: La grúa tuvo que remolcar el auto hasta el taller.
 
-8. **la coraza**
-   - Why selected: 9 lifetime misses; recent miss 7d, 7d; 4 lapses; short 4d interval
-   - Anki sentence: Con el tiempo, dejó caer la coraza que la protegía.
+7. **no dar pie con bola**
+   - Why selected: 8 lifetime misses; recent miss 24d, 24d, 27d; 1 lapse; short 11d interval
+   - Anki sentence: Los investigadores parecían no dar pie con bola.
 
-9. **escamosa**
-   - Why selected: 17 lifetime misses; recent miss 18d; 8 lapses; short 7d interval
-   - Anki sentence: La piel escamosa del lagarto brillaba bajo el sol.
+8. **morador**
+   - Why selected: 21 lifetime misses; recent miss 6d, 12d, 21d; 14 lapses; short 4d interval
+   - Anki sentence: El morador de la antigua casa decidió esperar a que llegara el verano para abrir las ventanas.
 
-10. **aventar**
-   - Why selected: 22 lifetime misses; recent miss 20d; 12 lapses; short 9d interval
-   - Anki sentence: No deberías aventar piedras al lago.
+9. **apañarse con**
+   - Why selected: 31 lifetime misses; recent miss 4d, 19d; 25 lapses; short 4d interval
+   - Anki sentence: A veces hay que apañarse con lo que uno tiene.
+
+10. **engreído**
+   - Why selected: 23 lifetime misses; 16 lapses; short 13d interval
+   - Anki sentence: No me gusta su actitud, es muy engreído.

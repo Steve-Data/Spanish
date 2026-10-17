@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-18",
-      "targets": [
-        "atenazar",
-        "desperdigados",
-        "anonadado",
-        "calabozo",
-        "pérfida",
-        "por lo visto",
-        "escamosa",
-        "berreta",
-        "transigir con",
-        "manada"
-      ],
-      "generated_at": "2026-08-18T05:00:22"
-    },
-    {
       "date": "2026-08-19",
       "targets": [
         "atenazar",
@@ -959,6 +943,22 @@
         "aventar"
       ],
       "generated_at": "2026-10-16T05:00:25"
+    },
+    {
+      "date": "2026-10-17",
+      "targets": [
+        "desbocado",
+        "la colilla",
+        "desaforado",
+        "un facón",
+        "la soltura",
+        "remolcar",
+        "no dar pie con bola",
+        "morador",
+        "apañarse con",
+        "engreído"
+      ],
+      "generated_at": "2026-10-17T05:00:25"
     }
   ]
 }
