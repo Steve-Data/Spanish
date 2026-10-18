@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-19",
-      "targets": [
-        "atenazar",
-        "desperdigados",
-        "calabozo",
-        "ociosas",
-        "artero",
-        "estar despachado",
-        "escabroso",
-        "en vilo",
-        "vaticinar",
-        "el cebo"
-      ],
-      "generated_at": "2026-08-19T05:00:23"
-    },
-    {
       "date": "2026-08-20",
       "targets": [
         "atenazar",
@@ -959,6 +943,22 @@
         "engreído"
       ],
       "generated_at": "2026-10-17T05:00:25"
+    },
+    {
+      "date": "2026-10-18",
+      "targets": [
+        "desbocado",
+        "la colilla",
+        "desaforado",
+        "ociosas",
+        "aprobar",
+        "combado",
+        "incautar",
+        "tiritar",
+        "estar tirado",
+        "aventar"
+      ],
+      "generated_at": "2026-10-18T05:00:24"
     }
   ]
 }
