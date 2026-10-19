@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-20",
-      "targets": [
-        "atenazar",
-        "desperdigados",
-        "calabozo",
-        "despedazados",
-        "diseminados",
-        "no dar para más",
-        "pasar desapercibido",
-        "parco",
-        "alejamiento",
-        "arañazos"
-      ],
-      "generated_at": "2026-08-20T05:00:22"
-    },
-    {
       "date": "2026-08-21",
       "targets": [
         "atenazar",
@@ -959,6 +943,22 @@
         "aventar"
       ],
       "generated_at": "2026-10-18T05:00:24"
+    },
+    {
+      "date": "2026-10-19",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "la colilla",
+        "irrisoriamente",
+        "a desgano",
+        "refunfuñar",
+        "echar a perder",
+        "salir despedido",
+        "desbordado",
+        "azuzar"
+      ],
+      "generated_at": "2026-10-19T05:00:25"
     }
   ]
 }

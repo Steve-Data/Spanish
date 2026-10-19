@@ -1,62 +1,60 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-10-18
+Updated: 2026-10-19
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
-1. **desbocado** - out of control; runaway; baggy
-2. **la colilla** - cigarette butt
-3. **desaforado** - frantic; unrestrained; out of control
-4. **ociosas** - idle; inactive; unoccupied; pointless
-5. **aprobar** - to pass; to endorse; to approve
-6. **combado** - bent; bowed; warped
-7. **incautar** - to seize; to confiscate
-8. **tiritar** - to shiver; to tremble
-9. **estar tirado** - to be lying or left sprawled somewhere
-10. **aventar** - to throw/fling; to fan (blow air at)
+1. **desaforado** - frantic; unrestrained; out of control
+2. **desbocado** - out of control; runaway; baggy
+3. **la colilla** - cigarette butt
+4. **irrisoriamente** - ridiculously; absurdly
+5. **a desgano** - reluctantly; unwillingly (not: a reacio)
+6. **refunfuñar** - to grumble; to mutter complaints
+7. **echar a perder** - to spoil; to ruin
+8. **salir despedido** - to be sent flying; to be thrown clear
+9. **desbordado** - overwhelmed
+10. **azuzar** - to incite; to egg on
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
-1. **desbocado**
-   - Why selected: 29 lifetime misses; recent miss 9d, 13d, 13d; 12 lapses; short 2d interval
-   - Anki sentence: El caballo corrió desbocado por la calle.
-
-2. **la colilla**
-   - Why selected: 12 lifetime misses; recent miss 10d, 10d, 12d; 4 lapses; short 4d interval
-   - Anki sentence: Apagó la colilla antes de tirarla.
-
-3. **desaforado**
-   - Why selected: 22 lifetime misses; recent miss 10d, 16d, 19d; 10 lapses; short 3d interval
+1. **desaforado**
+   - Why selected: 24 lifetime misses; recent miss 11d, 17d, 20d; 11 lapses; short 1d interval
    - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
-4. **ociosas**
-   - Base form: ocioso
-   - Why selected: 16 lifetime misses; recent miss 3d, 13d, 16d; 11 lapses; short 5d interval
-   - Anki sentence: Las tardes ociosas le parecían interminables.
+2. **desbocado**
+   - Why selected: 29 lifetime misses; recent miss 10d, 14d, 14d; 12 lapses; short 3d interval
+   - Anki sentence: El caballo corrió desbocado por la calle.
 
-5. **aprobar**
-   - Why selected: 13 lifetime misses; recent miss 1d, 3d, 15d; 9 lapses; short 1d interval
-   - Anki sentence: Los estudiantes deben estudiar para aprobar el examen.
+3. **la colilla**
+   - Why selected: 12 lifetime misses; recent miss 11d, 11d, 13d; 4 lapses; short 4d interval
+   - Anki sentence: Apagó la colilla antes de tirarla.
 
-6. **combado**
-   - Base form: combar
-   - Why selected: 14 lifetime misses; recent miss 11d, 16d, 17d; 7 lapses; short 8d interval
-   - Anki sentence: El techo estaba combado por el peso de la nieve.
+4. **irrisoriamente**
+   - Why selected: 9 lifetime misses; recent miss 3d, 12d, 13d; 3 lapses; short 3d interval
+   - Anki sentence: Las mangas le quedaban irrisoriamente cortas.
 
-7. **incautar**
-   - Why selected: 19 lifetime misses; recent miss 9d, 16d, 16d; 11 lapses; short 4d interval
-   - Anki sentence: La policía decidió incautar las drogas ilegales.
+5. **a desgano**
+   - Why selected: 7 lifetime misses; recent miss 4d, 7d, 15d; 5 lapses; short 2d interval
+   - Anki sentence: El oficial tomó la denuncia a desgano.
 
-8. **tiritar**
-   - Why selected: 7 lifetime misses; recent miss 5d, 5d; 5 lapses; short 4d interval
-   - Anki sentence: Ella empezó a tiritar, aterida de frío.
+6. **refunfuñar**
+   - Why selected: 13 lifetime misses; recent miss 2d, 26d, 26d; 6 lapses; short 3d interval
+   - Anki sentence: El anciano empezó a refunfuñar cuando apagaron la televisión.
 
-9. **estar tirado**
-   - Why selected: 8 lifetime misses; recent miss 4d, 7d; 4 lapses; short 3d interval
-   - Anki sentence: No es saludable estar tirado en un callejón toda la noche.
+7. **echar a perder**
+   - Why selected: 8 lifetime misses; recent miss 17d, 20d, 20d; 2 lapses; short 11d interval
+   - Anki sentence: Un descuido podía echar a perder todo el trabajo.
 
-10. **aventar**
-   - Why selected: 22 lifetime misses; recent miss 22d; 12 lapses; short 9d interval
-   - Anki sentence: No deberías aventar piedras al lago.
+8. **salir despedido**
+   - Why selected: 4 lifetime misses; recent miss 2d, 2d, 2d; 1 lapse; short 1d interval
+   - Anki sentence: El pasajero podría salir despedido si no usa el cinturón.
+
+9. **desbordado**
+   - Why selected: 37 lifetime misses; 25 lapses; short 10d interval
+   - Anki sentence: Tengo la impresión de que mi padre se sentía desbordado por ella.
+
+10. **azuzar**
+   - Why selected: 26 lifetime misses; 14 lapses; short 13d interval
+   - Anki sentence: No deberías azuzar a tu hermano cuando está molesto.
