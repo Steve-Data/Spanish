@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-21",
-      "targets": [
-        "atenazar",
-        "desperdigados",
-        "canaleta",
-        "estar despachado",
-        "trastabillar",
-        "artero",
-        "el resquicio",
-        "energúmeno",
-        "barriga",
-        "sobremanera"
-      ],
-      "generated_at": "2026-08-21T05:00:22"
-    },
-    {
       "date": "2026-08-22",
       "targets": [
         "atenazar",
@@ -959,6 +943,22 @@
         "azuzar"
       ],
       "generated_at": "2026-10-19T05:00:25"
+    },
+    {
+      "date": "2026-10-20",
+      "targets": [
+        "desbocado",
+        "desaforado",
+        "la colilla",
+        "escabroso",
+        "mecer",
+        "farfullar",
+        "despotricando",
+        "el contrincante",
+        "aventar",
+        "entrañables"
+      ],
+      "generated_at": "2026-10-20T05:00:24"
     }
   ]
 }
