@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-22",
-      "targets": [
-        "atenazar",
-        "desperdigados",
-        "canaleta",
-        "darse pena a sí mismo",
-        "el derrotero",
-        "desbordado",
-        "diseminados",
-        "disparatado",
-        "acérrimo",
-        "acatar una orden"
-      ],
-      "generated_at": "2026-08-22T05:00:23"
-    },
-    {
       "date": "2026-08-23",
       "targets": [
         "atenazar",
@@ -959,6 +943,22 @@
         "entrañables"
       ],
       "generated_at": "2026-10-20T05:00:24"
+    },
+    {
+      "date": "2026-10-21",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "la colilla",
+        "a desgano",
+        "echar a perder",
+        "así como así",
+        "un berretín",
+        "apresar",
+        "extraviada",
+        "estar tirado"
+      ],
+      "generated_at": "2026-10-21T05:00:25"
     }
   ]
 }
