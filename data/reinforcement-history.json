@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-23",
-      "targets": [
-        "atenazar",
-        "el derrotero",
-        "desperdigados",
-        "extrañada",
-        "ociosas",
-        "encogidos",
-        "repicar",
-        "despiadada",
-        "qué guachada",
-        "ahínco"
-      ],
-      "generated_at": "2026-08-23T05:00:34"
-    },
-    {
       "date": "2026-08-24",
       "targets": [
         "el derrotero",
@@ -959,6 +943,22 @@
         "estar tirado"
       ],
       "generated_at": "2026-10-21T05:00:25"
+    },
+    {
+      "date": "2026-10-22",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "la colilla",
+        "un vericueto",
+        "extrañada",
+        "desdeñosa",
+        "zamarrear",
+        "la puerta corrediza",
+        "no estar para hacer algo",
+        "afanarse"
+      ],
+      "generated_at": "2026-10-22T05:00:25"
     }
   ]
 }
