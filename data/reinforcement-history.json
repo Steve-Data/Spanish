@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-24",
-      "targets": [
-        "el derrotero",
-        "atenazar",
-        "desperdigados",
-        "anonadado",
-        "idónea",
-        "desbocado",
-        "darse pena a sí mismo",
-        "artero",
-        "el resquicio",
-        "pasar desapercibido"
-      ],
-      "generated_at": "2026-08-24T05:00:24"
-    },
-    {
       "date": "2026-08-25",
       "targets": [
         "el derrotero",
@@ -959,6 +943,22 @@
         "afanarse"
       ],
       "generated_at": "2026-10-22T05:00:25"
+    },
+    {
+      "date": "2026-10-23",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "la colilla",
+        "encarecidamente",
+        "escamosa",
+        "remolcar",
+        "olor a encierro",
+        "estar abarrotado",
+        "recostarme",
+        "acoplarse"
+      ],
+      "generated_at": "2026-10-23T05:00:25"
     }
   ]
 }
