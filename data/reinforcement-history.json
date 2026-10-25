@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-26",
-      "targets": [
-        "estar despachado",
-        "el derrotero",
-        "azorado",
-        "canaleta",
-        "azuzar",
-        "irrebatible",
-        "desbordado",
-        "correosa",
-        "como mucho",
-        "por lo pronto"
-      ],
-      "generated_at": "2026-08-26T05:00:23"
-    },
-    {
       "date": "2026-08-27",
       "targets": [
         "el derrotero",
@@ -959,6 +943,22 @@
         "apresar"
       ],
       "generated_at": "2026-10-24T05:00:24"
+    },
+    {
+      "date": "2026-10-25",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "la colilla",
+        "escabroso",
+        "están embobados",
+        "artero",
+        "augurar",
+        "un vericueto",
+        "desdeñosa",
+        "la arcilla"
+      ],
+      "generated_at": "2026-10-25T05:00:24"
     }
   ]
 }
