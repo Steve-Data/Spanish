@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-27",
-      "targets": [
-        "el derrotero",
-        "azorado",
-        "atenazar",
-        "canaleta",
-        "desbocado",
-        "el barquinazo",
-        "dirimir",
-        "no venir a cuento",
-        "cobija",
-        "acatar una orden"
-      ],
-      "generated_at": "2026-08-27T05:00:23"
-    },
-    {
       "date": "2026-08-28",
       "targets": [
         "azorado",
@@ -959,6 +943,22 @@
         "la arcilla"
       ],
       "generated_at": "2026-10-25T05:00:24"
+    },
+    {
+      "date": "2026-10-26",
+      "targets": [
+        "desbocado",
+        "desaforado",
+        "se apretujó",
+        "la colilla",
+        "ociosas",
+        "escabroso",
+        "extrañada",
+        "regañadientes",
+        "la aparición",
+        "ventisquero"
+      ],
+      "generated_at": "2026-10-26T05:00:24"
     }
   ]
 }

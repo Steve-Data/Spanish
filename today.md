@@ -1,60 +1,62 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-10-25
+Updated: 2026-10-26
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
-1. **desaforado** - frantic; unrestrained; out of control
-2. **desbocado** - out of control; runaway; baggy
-3. **la colilla** - cigarette butt
-4. **escabroso** - thorny; tricky; lurid; risqué; rough or treacherous
-5. **están embobados** - to be stunned; to be spellbound; to be dumbfounded (not: están embelezados)
-6. **artero** - treacherous; deceitful (not: alevoso)
-7. **augurar** - to predict; to foretell; to portend
-8. **un vericueto** - a twist or turn; a complication; a winding path
-9. **desdeñosa** - disdainful; scornful; contemptuous (adj)
-10. **la arcilla** - clay
+1. **desbocado** - out of control; runaway; baggy
+2. **desaforado** - frantic; unrestrained; out of control
+3. **se apretujó** - squeezed or huddled close
+4. **la colilla** - cigarette butt
+5. **ociosas** - idle; inactive; unoccupied; pointless
+6. **escabroso** - thorny; tricky; lurid; risqué; rough or treacherous
+7. **extrañada** - surprised, puzzled, taken aback; not “missed”
+8. **regañadientes** - grudgingly; reluctantly
+9. **la aparición** - appearance; emergence; apparition
+10. **ventisquero** - snowdrift
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
-1. **desaforado**
-   - Why selected: 24 lifetime misses; recent miss 15d, 17d, 23d; 11 lapses; short 4d interval
-   - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
-
-2. **desbocado**
-   - Why selected: 29 lifetime misses; recent miss 16d, 20d, 20d; 12 lapses; short 6d interval
+1. **desbocado**
+   - Why selected: 29 lifetime misses; recent miss 17d, 21d, 21d; 12 lapses; short 6d interval
    - Anki sentence: El caballo corrió desbocado por la calle.
 
-3. **la colilla**
-   - Why selected: 12 lifetime misses; recent miss 17d, 17d, 19d; 4 lapses; short 5d interval
+2. **desaforado**
+   - Why selected: 24 lifetime misses; recent miss 16d, 18d, 24d; 11 lapses; short 4d interval
+   - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
+
+3. **se apretujó**
+   - Base form: apretujarse
+   - Why selected: 9 lifetime misses; recent miss 4d, 4d, 4d; 2 lapses; short 1d interval
+   - Anki sentence: Para caber en el asiento, se apretujó junto a Beth.
+
+4. **la colilla**
+   - Why selected: 12 lifetime misses; recent miss 18d, 18d, 20d; 4 lapses; short 5d interval
    - Anki sentence: Apagó la colilla antes de tirarla.
 
-4. **escabroso**
-   - Why selected: 17 lifetime misses; recent miss 27d, 27d, 27d; 8 lapses; short 6d interval
+5. **ociosas**
+   - Base form: ocioso
+   - Why selected: 16 lifetime misses; recent miss 11d, 21d, 24d; 11 lapses; short 6d interval
+   - Anki sentence: Las tardes ociosas le parecían interminables.
+
+6. **escabroso**
+   - Why selected: 17 lifetime misses; recent miss 28d, 28d, 28d; 8 lapses; short 6d interval
    - Anki sentence: Era un asunto escabroso que nadie quería discutir.
 
-5. **están embobados**
-   - Why selected: 29 lifetime misses; recent miss 4d, 7d, 14d; 23 lapses; short 5d interval
-   - Anki sentence: A veces, los estudiantes están embobados cuando comienzan a aprender un nuevo idioma.
+7. **extrañada**
+   - Why selected: 37 lifetime misses; recent miss 4d, 17d, 20d; 28 lapses; short 3d interval
+   - Anki sentence: Ella se siente extrañada al pensar en sus amigos que viven lejos.
 
-6. **artero**
-   - Why selected: 9 lifetime misses; recent miss 7d, 7d; 4 lapses; short 6d interval
-   - Anki sentence: Fue un ataque artero contra alguien que no podía defenderse.
+8. **regañadientes**
+   - Why selected: 20 lifetime misses; recent miss 10d, 14d, 17d; 15 lapses; short 5d interval
+   - Anki sentence: Decidí ayudarle a mi hermano regañadientes porque no quería hacerlo.
 
-7. **augurar**
-   - Why selected: 5 lifetime misses; recent miss 14d, 19d, 23d; 3 lapses; short 2d interval
-   - Anki sentence: Las nubes oscuras parecían augurar una tormenta.
+9. **la aparición**
+   - Why selected: 5 lifetime misses; recent miss 2d, 2d, 2d; 1 lapse; short 1d interval
+   - Anki sentence: Los informes indicaban que la aparición de nuevos héroes ya era una tendencia.
 
-8. **un vericueto**
-   - Why selected: 10 lifetime misses; recent miss 25d, 30d, 30d; 3 lapses; short 10d interval
-   - Anki sentence: El trámite terminó en un vericueto burocrático difícil de entender.
-
-9. **desdeñosa**
-   - Why selected: 36 lifetime misses; recent miss 23d; 24 lapses; short 8d interval
-   - Anki sentence: Es difícil no sentirse herido cuando alguien es tan desdeñosa al hablar.
-
-10. **la arcilla**
-   - Why selected: 4 lifetime misses; recent miss 4d, 7d, 8d; 1 lapse; short 3d interval
-   - Anki sentence: La escultora modeló la figura con la arcilla húmeda.
+10. **ventisquero**
+   - Why selected: 20 lifetime misses; recent miss 3d, 5d; 19 lapses; short 4d interval
+   - Anki sentence: El ventisquero en la montaña parece impresionante durante el invierno.
