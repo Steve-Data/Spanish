@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-29",
-      "targets": [
-        "estar despachado",
-        "azorado",
-        "atenazar",
-        "canaleta",
-        "desdeñosa",
-        "desde luego",
-        "acérrimo",
-        "berreta",
-        "entorpecer",
-        "a la par que"
-      ],
-      "generated_at": "2026-08-29T05:00:24"
-    },
-    {
       "date": "2026-08-30",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "idónea"
       ],
       "generated_at": "2026-10-27T05:00:25"
+    },
+    {
+      "date": "2026-10-28",
+      "targets": [
+        "se apretujó",
+        "desbocado",
+        "desaforado",
+        "un berretín",
+        "atenazar",
+        "empañar",
+        "apañarse con",
+        "azuzar",
+        "un motín",
+        "afanarse"
+      ],
+      "generated_at": "2026-10-28T05:00:25"
     }
   ]
 }
