@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-30",
-      "targets": [
-        "desaforado",
-        "estar despachado",
-        "azorado",
-        "andar a las corridas",
-        "retozar",
-        "encogidos",
-        "desde luego",
-        "por lo visto",
-        "replegarse",
-        "derrochar"
-      ],
-      "generated_at": "2026-08-30T05:00:23"
-    },
-    {
       "date": "2026-08-31",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "afanarse"
       ],
       "generated_at": "2026-10-28T05:00:25"
+    },
+    {
+      "date": "2026-10-29",
+      "targets": [
+        "se apretujó",
+        "desaforado",
+        "roñosa",
+        "desbocado",
+        "extrañada",
+        "incautar",
+        "un tirón",
+        "azorado",
+        "desde luego",
+        "lastimero"
+      ],
+      "generated_at": "2026-10-29T05:00:24"
     }
   ]
 }
