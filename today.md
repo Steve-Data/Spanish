@@ -1,19 +1,19 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-10-30
+Updated: 2026-10-31
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
 1. **roñosa** - mangy; filthy; shabby; miserly
-2. **desaforado** - frantic; unrestrained; out of control
-3. **desbocado** - out of control; runaway; baggy
-4. **la aparición** - appearance; emergence; apparition
-5. **irrebatible** - irrefutable; impossible to refute or argue against
-6. **olor a encierro** - a stale or musty smell from a closed-up space
-7. **artero** - treacherous; deceitful (not: alevoso)
-8. **pese a que** - even though; despite the fact that
-9. **por desidia** - through negligence; out of laziness or apathy
-10. **azorado** - flustered; bewildered; embarrassed
+2. **la aparición** - appearance; emergence; apparition
+3. **desaforado** - frantic; unrestrained; out of control
+4. **un facón** - a large gaucho knife (Arg)
+5. **retozar** - to frolic; to romp; to play around
+6. **están embobados** - to be stunned; to be spellbound; to be dumbfounded (not: están embelezados)
+7. **salir despedido** - to be sent flying; to be thrown clear
+8. **combado** - bent; bowed; warped
+9. **idónea** - suitable, appropriate, right for a purpose; sometimes “ideal”
+10. **por cierto** - by the way; incidentally
 
 ## Context
 
@@ -21,41 +21,42 @@ These were selected from Anki review history, with priority for recent misses, r
 
 1. **roñosa**
    - Base form: roñoso
-   - Why selected: 12 lifetime misses; recent miss 4d, 4d, 21d; 3 lapses; short 2d interval
+   - Why selected: 12 lifetime misses; recent miss 5d, 5d, 22d; 3 lapses; short 2d interval
    - Anki sentence: Ni siquiera mandó una roñosa nota para disculparse.
 
-2. **desaforado**
-   - Why selected: 24 lifetime misses; recent miss 20d, 22d, 28d; 11 lapses; short 4d interval
-   - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
-
-3. **desbocado**
-   - Why selected: 29 lifetime misses; recent miss 21d, 25d, 25d; 12 lapses; short 5d interval
-   - Anki sentence: El caballo corrió desbocado por la calle.
-
-4. **la aparición**
-   - Why selected: 8 lifetime misses; recent miss 6d, 6d, 6d; 3 lapses; short 2d interval
+2. **la aparición**
+   - Why selected: 9 lifetime misses; recent miss 7d, 7d, 7d; 4 lapses; short 1d interval
    - Anki sentence: Los informes indicaban que la aparición de nuevos héroes ya era una tendencia.
 
-5. **irrebatible**
-   - Why selected: 41 lifetime misses; recent miss 2d, 7d, 17d; 32 lapses; short 2d interval
-   - Anki sentence: Sus argumentos eran lógicos y su conclusión irrebatible.
+3. **desaforado**
+   - Why selected: 24 lifetime misses; recent miss 21d, 23d, 29d; 11 lapses; short 4d interval
+   - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
-6. **olor a encierro**
-   - Why selected: 11 lifetime misses; recent miss 4d, 9d, 15d; 6 lapses; short 4d interval
-   - Anki sentence: La casa tenía olor a encierro después de meses cerrada.
+4. **un facón**
+   - Why selected: 12 lifetime misses; recent miss 24d, 24d, 30d; 4 lapses; short 7d interval
+   - Anki sentence: Llevaba un facón envainado junto al cinturón.
 
-7. **artero**
-   - Why selected: 9 lifetime misses; recent miss 12d, 12d; 4 lapses; short 6d interval
-   - Anki sentence: Fue un ataque artero contra alguien que no podía defenderse.
+5. **retozar**
+   - Why selected: 17 lifetime misses; recent miss 24d, 24d, 24d; 7 lapses; short 11d interval
+   - Anki sentence: Los chicos salieron a retozar en el jardín.
 
-8. **pese a que**
-   - Why selected: 8 lifetime misses; recent miss 8d, 15d, 15d; 4 lapses; short 2d interval
-   - Anki sentence: Salieron a caminar pese a que estaba lloviendo.
+6. **están embobados**
+   - Why selected: 30 lifetime misses; recent miss 2d, 10d, 13d; 24 lapses; short 2d interval
+   - Anki sentence: A veces, los estudiantes están embobados cuando comienzan a aprender un nuevo idioma.
 
-9. **por desidia**
-   - Why selected: 6 lifetime misses; recent miss 24d, 25d, 26d; 3 lapses; short 10d interval
-   - Anki sentence: El expediente quedó olvidado por desidia.
+7. **salir despedido**
+   - Why selected: 6 lifetime misses; recent miss 14d, 14d, 14d; 3 lapses; short 4d interval
+   - Anki sentence: El pasajero podría salir despedido si no usa el cinturón.
 
-10. **azorado**
-   - Why selected: 24 lifetime misses; 13 lapses; 19d interval
-   - Anki sentence: El alumno quedó azorado cuando no supo responder la pregunta.
+8. **combado**
+   - Base form: combar
+   - Why selected: 14 lifetime misses; recent miss 24d, 29d, 30d; 7 lapses; short 8d interval
+   - Anki sentence: El techo estaba combado por el peso de la nieve.
+
+9. **idónea**
+   - Why selected: 21 lifetime misses; recent miss 2d; 18 lapses; short 3d interval
+   - Anki sentence: Es la aceituna idónea para incluirla en las dietas bajas en sal.
+
+10. **por cierto**
+   - Why selected: 7 lifetime misses; recent miss 2d, 16d, 18d; 5 lapses; short 2d interval
+   - Anki sentence: Y, por cierto, mañana no habrá reunión.
