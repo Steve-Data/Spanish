@@ -1,62 +1,62 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-10-31
+Updated: 2026-11-01
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
-1. **roñosa** - mangy; filthy; shabby; miserly
-2. **la aparición** - appearance; emergence; apparition
-3. **desaforado** - frantic; unrestrained; out of control
-4. **un facón** - a large gaucho knife (Arg)
-5. **retozar** - to frolic; to romp; to play around
-6. **están embobados** - to be stunned; to be spellbound; to be dumbfounded (not: están embelezados)
-7. **salir despedido** - to be sent flying; to be thrown clear
-8. **combado** - bent; bowed; warped
-9. **idónea** - suitable, appropriate, right for a purpose; sometimes “ideal”
-10. **por cierto** - by the way; incidentally
+1. **desaforado** - frantic; unrestrained; out of control
+2. **roñosa** - mangy; filthy; shabby; miserly
+3. **desbocado** - out of control; runaway; baggy
+4. **la soltura** - ease; fluency; confident skill
+5. **hacerse una paja** - to masturbate; to jerk off
+6. **remisos** - reluctant; unwilling (not: reacios)
+7. **así como así** - just like that; without further thought or explanation
+8. **aprobar** - to pass; to endorse; to approve
+9. **engreído** - vain; conceited; stuck-up
+10. **con todo** - nevertheless; even so
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
-1. **roñosa**
-   - Base form: roñoso
-   - Why selected: 12 lifetime misses; recent miss 5d, 5d, 22d; 3 lapses; short 2d interval
-   - Anki sentence: Ni siquiera mandó una roñosa nota para disculparse.
-
-2. **la aparición**
-   - Why selected: 9 lifetime misses; recent miss 7d, 7d, 7d; 4 lapses; short 1d interval
-   - Anki sentence: Los informes indicaban que la aparición de nuevos héroes ya era una tendencia.
-
-3. **desaforado**
-   - Why selected: 24 lifetime misses; recent miss 21d, 23d, 29d; 11 lapses; short 4d interval
+1. **desaforado**
+   - Why selected: 26 lifetime misses; recent miss 22d, 24d, 30d; 12 lapses; short 1d interval
    - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
-4. **un facón**
-   - Why selected: 12 lifetime misses; recent miss 24d, 24d, 30d; 4 lapses; short 7d interval
-   - Anki sentence: Llevaba un facón envainado junto al cinturón.
+2. **roñosa**
+   - Base form: roñoso
+   - Why selected: 12 lifetime misses; recent miss 6d, 6d, 23d; 3 lapses; short 6d interval
+   - Anki sentence: Ni siquiera mandó una roñosa nota para disculparse.
 
-5. **retozar**
-   - Why selected: 17 lifetime misses; recent miss 24d, 24d, 24d; 7 lapses; short 11d interval
-   - Anki sentence: Los chicos salieron a retozar en el jardín.
+3. **desbocado**
+   - Why selected: 29 lifetime misses; recent miss 23d, 27d, 27d; 12 lapses; short 5d interval
+   - Anki sentence: El caballo corrió desbocado por la calle.
 
-6. **están embobados**
-   - Why selected: 30 lifetime misses; recent miss 2d, 10d, 13d; 24 lapses; short 2d interval
-   - Anki sentence: A veces, los estudiantes están embobados cuando comienzan a aprender un nuevo idioma.
+4. **la soltura**
+   - Why selected: 14 lifetime misses; recent miss 3d, 19d; 7 lapses; short 3d interval
+   - Anki sentence: Todos admiraban la soltura con la que tocaba el piano.
 
-7. **salir despedido**
-   - Why selected: 6 lifetime misses; recent miss 14d, 14d, 14d; 3 lapses; short 4d interval
-   - Anki sentence: El pasajero podría salir despedido si no usa el cinturón.
+5. **hacerse una paja**
+   - Why selected: 8 lifetime misses; recent miss 27d, 27d, 27d; 2 lapses; short 6d interval
+   - Anki sentence: El personaje admitió que solía hacerse una paja en el baño.
 
-8. **combado**
-   - Base form: combar
-   - Why selected: 14 lifetime misses; recent miss 24d, 29d, 30d; 7 lapses; short 8d interval
-   - Anki sentence: El techo estaba combado por el peso de la nieve.
+6. **remisos**
+   - Base form: remiso
+   - Why selected: 7 lifetime misses; recent miss 25d, 25d, 25d; 2 lapses; short 8d interval
+   - Anki sentence: Los vecinos se mostraron remisos a colaborar con la investigación.
 
-9. **idónea**
-   - Why selected: 21 lifetime misses; recent miss 2d; 18 lapses; short 3d interval
-   - Anki sentence: Es la aceituna idónea para incluirla en las dietas bajas en sal.
+7. **así como así**
+   - Why selected: 6 lifetime misses; recent miss 24d, 24d, 24d; 3 lapses; short 6d interval
+   - Anki sentence: No puedes abandonar el proyecto así como así.
 
-10. **por cierto**
-   - Why selected: 7 lifetime misses; recent miss 2d, 16d, 18d; 5 lapses; short 2d interval
-   - Anki sentence: Y, por cierto, mañana no habrá reunión.
+8. **aprobar**
+   - Why selected: 13 lifetime misses; recent miss 15d, 17d, 29d; 9 lapses; short 8d interval
+   - Anki sentence: Los estudiantes deben estudiar para aprobar el examen.
+
+9. **engreído**
+   - Why selected: 23 lifetime misses; 16 lapses; short 14d interval
+   - Anki sentence: No me gusta su actitud, es muy engreído.
+
+10. **con todo**
+   - Why selected: 4 lifetime misses; recent miss 7d, 10d, 10d; 2 lapses; short 4d interval
+   - Anki sentence: El riesgo era alto; con todo, decidió seguir adelante.

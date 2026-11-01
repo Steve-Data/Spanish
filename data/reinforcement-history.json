@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-02",
-      "targets": [
-        "desaforado",
-        "atenazar",
-        "desperdigados",
-        "peripecias",
-        "calabozo",
-        "amagar con hacer algo",
-        "azuzar",
-        "desdichado",
-        "subastar",
-        "hurtar"
-      ],
-      "generated_at": "2026-09-02T05:00:23"
-    },
-    {
       "date": "2026-09-03",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "por cierto"
       ],
       "generated_at": "2026-10-31T05:00:25"
+    },
+    {
+      "date": "2026-11-01",
+      "targets": [
+        "desaforado",
+        "roñosa",
+        "desbocado",
+        "la soltura",
+        "hacerse una paja",
+        "remisos",
+        "así como así",
+        "aprobar",
+        "engreído",
+        "con todo"
+      ],
+      "generated_at": "2026-11-01T05:00:24"
     }
   ]
 }
