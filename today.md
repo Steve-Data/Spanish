@@ -1,61 +1,60 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-11-02
+Updated: 2026-11-03
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
 1. **desaforado** - frantic; unrestrained; out of control
-2. **roñosa** - mangy; filthy; shabby; miserly
-3. **desbocado** - out of control; runaway; baggy
-4. **la colilla** - cigarette butt
-5. **a desgano** - reluctantly; unwillingly (not: a reacio)
-6. **susodicho** - aforementioned
-7. **afanarse** - to strive; to toil; to work hard (not: esmerarse)
-8. **morador** - inhabitant; dweller; resident
-9. **verse abocado a** - to be driven or forced into
-10. **transigir con** - to compromise with; to give in to; to accept reluctantly
+2. **desbocado** - out of control; runaway; baggy
+3. **a desgano** - reluctantly; unwillingly (not: a reacio)
+4. **un facón** - a large gaucho knife (Arg)
+5. **la ligereza** - carelessness; lack of seriousness; lightness
+6. **refunfuñar** - to grumble; to mutter complaints
+7. **desparramada** - scattered; spilled all over
+8. **una vaharada** - a waft; a sudden gust of air, vapor, or smell
+9. **no estar para hacer algo** - not to be in the mood or condition to do something
+10. **repantigadas** - sprawled, slouched, or lounging comfortably, often carelessly
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
 1. **desaforado**
-   - Why selected: 26 lifetime misses; recent miss 23d, 23d, 25d; 12 lapses; short 2d interval
+   - Why selected: 26 lifetime misses; recent miss 24d, 24d, 26d; 12 lapses; short 2d interval
    - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
-2. **roñosa**
-   - Base form: roñoso
-   - Why selected: 12 lifetime misses; recent miss 7d, 7d, 24d; 3 lapses; short 6d interval
-   - Anki sentence: Ni siquiera mandó una roñosa nota para disculparse.
-
-3. **desbocado**
-   - Why selected: 29 lifetime misses; recent miss 24d, 28d, 28d; 12 lapses; short 10d interval
+2. **desbocado**
+   - Why selected: 29 lifetime misses; recent miss 25d, 29d, 29d; 12 lapses; short 11d interval
    - Anki sentence: El caballo corrió desbocado por la calle.
 
-4. **la colilla**
-   - Why selected: 12 lifetime misses; recent miss 25d, 25d, 27d; 4 lapses; short 8d interval
-   - Anki sentence: Apagó la colilla antes de tirarla.
-
-5. **a desgano**
-   - Why selected: 8 lifetime misses; recent miss 3d, 17d, 18d; 6 lapses; short 3d interval
+3. **a desgano**
+   - Why selected: 10 lifetime misses; recent miss 1d, 4d, 18d; 7 lapses; short 1d interval
    - Anki sentence: El oficial tomó la denuncia a desgano.
 
-6. **susodicho**
-   - Why selected: 10 lifetime misses; recent miss 7d, 9d, 21d; 5 lapses; short 6d interval
-   - Anki sentence: Cuando el susodicho dejó a la otra, ya era tarde.
+4. **un facón**
+   - Why selected: 12 lifetime misses; recent miss 27d, 27d, 27d; 4 lapses; short 7d interval
+   - Anki sentence: Llevaba un facón envainado junto al cinturón.
 
-7. **afanarse**
-   - Why selected: 23 lifetime misses; recent miss 1d, 20d, 30d; 17 lapses; short 2d interval
-   - Anki sentence: Ella afanarse por estudiar cada día para mejorar en sus clases.
+5. **la ligereza**
+   - Why selected: 6 lifetime misses; recent miss 5d, 5d, 5d; short 2d interval
+   - Anki sentence: Me preocupó la ligereza con que tomó una decisión tan seria.
 
-8. **morador**
-   - Why selected: 21 lifetime misses; recent miss 22d, 28d; 14 lapses; short 12d interval
-   - Anki sentence: El morador de la antigua casa decidió esperar a que llegara el verano para abrir las ventanas.
+6. **refunfuñar**
+   - Why selected: 14 lifetime misses; recent miss 11d, 17d; 7 lapses; short 4d interval
+   - Anki sentence: El anciano empezó a refunfuñar cuando apagaron la televisión.
 
-9. **verse abocado a**
-   - Why selected: 9 lifetime misses; 5 lapses; 18d interval
-   - Anki sentence: El proyecto parecía verse abocado a una quiebra inevitable.
+7. **desparramada**
+   - Why selected: 17 lifetime misses; recent miss 1d, 11d, 11d; 12 lapses; short 1d interval
+   - Anki sentence: El agua se quedó desparramada por todo el suelo.
 
-10. **transigir con**
-   - Why selected: 27 lifetime misses; recent miss 1d; 15 lapses; short 3d interval
-   - Anki sentence: No estaba dispuesto a transigir con una propuesta injusta.
+8. **una vaharada**
+   - Why selected: 7 lifetime misses; recent miss 3d, 24d; 4 lapses; short 4d interval
+   - Anki sentence: Al abrir la puerta, recibió una vaharada de aire caliente.
+
+9. **no estar para hacer algo**
+   - Why selected: 7 lifetime misses; recent miss 27d; 6 lapses; short 14d interval
+   - Anki sentence: Después del viaje, dijo no estar para hacer algo que exigiera paciencia.
+
+10. **repantigadas**
+   - Why selected: 19 lifetime misses; 17 lapses; short 13d interval
+   - Anki sentence: Había unas cuantas personas repantigadas en ellos como si fueran muñecas.

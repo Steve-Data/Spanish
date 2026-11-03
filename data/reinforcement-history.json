@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-04",
-      "targets": [
-        "desaforado",
-        "atenazar",
-        "desperdigados",
-        "pérfida",
-        "atrevida",
-        "alejamiento",
-        "en vilo",
-        "diseminados",
-        "derrochar",
-        "empañar"
-      ],
-      "generated_at": "2026-09-04T05:00:24"
-    },
-    {
       "date": "2026-09-05",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "transigir con"
       ],
       "generated_at": "2026-11-02T05:00:24"
+    },
+    {
+      "date": "2026-11-03",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "a desgano",
+        "un facón",
+        "la ligereza",
+        "refunfuñar",
+        "desparramada",
+        "una vaharada",
+        "no estar para hacer algo",
+        "repantigadas"
+      ],
+      "generated_at": "2026-11-03T05:00:35"
     }
   ]
 }
