@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-05",
-      "targets": [
-        "desaforado",
-        "atenazar",
-        "desperdigados",
-        "causar estragos",
-        "erizarse",
-        "acérrimo",
-        "disparatado",
-        "parco",
-        "neblinoso",
-        "despampanante"
-      ],
-      "generated_at": "2026-09-05T05:00:24"
-    },
-    {
       "date": "2026-09-06",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "repantigadas"
       ],
       "generated_at": "2026-11-03T05:00:35"
+    },
+    {
+      "date": "2026-11-05",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "la ligereza",
+        "se apretujó",
+        "atenazar",
+        "la puerta corrediza",
+        "aprobar",
+        "desenfrenado",
+        "farfullar",
+        "por cierto"
+      ],
+      "generated_at": "2026-11-05T05:00:24"
     }
   ]
 }
