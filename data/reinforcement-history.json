@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-06",
-      "targets": [
-        "desaforado",
-        "atenazar",
-        "desperdigados",
-        "anonadado",
-        "embaucar",
-        "darse pena a sí mismo",
-        "cobija",
-        "desde luego",
-        "desdichado",
-        "diseminados"
-      ],
-      "generated_at": "2026-09-06T05:00:23"
-    },
-    {
       "date": "2026-09-07",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "por cierto"
       ],
       "generated_at": "2026-11-05T05:00:24"
+    },
+    {
+      "date": "2026-11-06",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "a desgano",
+        "regañadientes",
+        "la arcilla",
+        "combado",
+        "desentrañar",
+        "apiadarse de",
+        "graznó",
+        "encarecidamente"
+      ],
+      "generated_at": "2026-11-06T05:00:25"
     }
   ]
 }
