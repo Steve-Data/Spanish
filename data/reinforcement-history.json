@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-07",
-      "targets": [
-        "desaforado",
-        "verse abocado a",
-        "desperdigados",
-        "escamosa",
-        "estar a resguardo",
-        "acalambrarse",
-        "trastabillar",
-        "pasmada",
-        "dirimir",
-        "reacios"
-      ],
-      "generated_at": "2026-09-07T05:00:23"
-    },
-    {
       "date": "2026-09-08",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "encarecidamente"
       ],
       "generated_at": "2026-11-06T05:00:25"
+    },
+    {
+      "date": "2026-11-07",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "se apretujó",
+        "a desgano",
+        "irrebatible",
+        "empañar",
+        "ociosas",
+        "pese a que",
+        "azuzar",
+        "incautar"
+      ],
+      "generated_at": "2026-11-07T05:00:25"
     }
   ]
 }

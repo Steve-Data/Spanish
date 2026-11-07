@@ -1,62 +1,62 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-11-06
+Updated: 2026-11-07
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
 1. **desaforado** - frantic; unrestrained; out of control
 2. **desbocado** - out of control; runaway; baggy
-3. **a desgano** - reluctantly; unwillingly (not: a reacio)
-4. **regañadientes** - grudgingly; reluctantly
-5. **la arcilla** - clay
-6. **combado** - bent; bowed; warped
-7. **desentrañar** - to get to the bottom of; to unravel (not: desenredar)
-8. **apiadarse de** - to take pity on; to feel compassion for
-9. **graznó** - to caw; to honk; to squawk
-10. **encarecidamente** - earnestly; urgently; strongly
+3. **se apretujó** - squeezed or huddled close
+4. **a desgano** - reluctantly; unwillingly (not: a reacio)
+5. **irrebatible** - irrefutable; impossible to refute or argue against
+6. **empañar** - to fog up; to tarnish; to blur
+7. **ociosas** - idle; inactive; unoccupied; pointless
+8. **pese a que** - even though; despite the fact that
+9. **azuzar** - to incite; to egg on
+10. **incautar** - to seize; to confiscate
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
 1. **desaforado**
-   - Why selected: 27 lifetime misses; recent miss 27d, 27d, 29d; 13 lapses; short 2d interval
+   - Why selected: 27 lifetime misses; recent miss 28d, 28d, 30d; 13 lapses; short 4d interval
    - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
 2. **desbocado**
-   - Why selected: 29 lifetime misses; recent miss 28d, 28d, 28d; 12 lapses; short 11d interval
+   - Why selected: 29 lifetime misses; recent miss 29d, 29d, 29d; 12 lapses; short 11d interval
    - Anki sentence: El caballo corrió desbocado por la calle.
 
-3. **a desgano**
-   - Why selected: 10 lifetime misses; recent miss 4d, 4d, 7d; 7 lapses; short 2d interval
+3. **se apretujó**
+   - Base form: apretujarse
+   - Why selected: 11 lifetime misses; recent miss 16d, 16d, 16d; 4 lapses; short 3d interval
+   - Anki sentence: Para caber en el asiento, se apretujó junto a Beth.
+
+4. **a desgano**
+   - Why selected: 10 lifetime misses; recent miss 5d, 5d, 8d; 7 lapses; short 2d interval
    - Anki sentence: El oficial tomó la denuncia a desgano.
 
-4. **regañadientes**
-   - Why selected: 21 lifetime misses; recent miss 21d, 25d, 28d; 16 lapses; short 9d interval
-   - Anki sentence: Decidí ayudarle a mi hermano regañadientes porque no quería hacerlo.
+5. **irrebatible**
+   - Why selected: 41 lifetime misses; recent miss 10d, 15d, 25d; 32 lapses; short 4d interval
+   - Anki sentence: Sus argumentos eran lógicos y su conclusión irrebatible.
 
-5. **la arcilla**
-   - Why selected: 5 lifetime misses; recent miss 16d, 19d, 20d; 2 lapses; short 8d interval
-   - Anki sentence: La escultora modeló la figura con la arcilla húmeda.
+6. **empañar**
+   - Why selected: 39 lifetime misses; recent miss 12d, 13d; 33 lapses; short 5d interval
+   - Anki sentence: El vapor puede empañar los espejos del baño.
 
-6. **combado**
-   - Base form: combar
-   - Why selected: 14 lifetime misses; recent miss 30d; 7 lapses; short 9d interval
-   - Anki sentence: El techo estaba combado por el peso de la nieve.
+7. **ociosas**
+   - Base form: ocioso
+   - Why selected: 16 lifetime misses; recent miss 23d; 11 lapses; short 10d interval
+   - Anki sentence: Las tardes ociosas le parecían interminables.
 
-7. **desentrañar**
-   - Why selected: 18 lifetime misses; recent miss 15d, 25d, 28d; 13 lapses; short 5d interval
-   - Anki sentence: Los científicos lograron desentrañar el código genético de la enfermedad.
+8. **pese a que**
+   - Why selected: 8 lifetime misses; recent miss 16d, 23d, 23d; 4 lapses; short 6d interval
+   - Anki sentence: Salieron a caminar pese a que estaba lloviendo.
 
-8. **apiadarse de**
-   - Why selected: 17 lifetime misses; recent miss 5d; 12 lapses; short 8d interval
-   - Anki sentence: Nadie parecía apiadarse de los heridos.
+9. **azuzar**
+   - Why selected: 26 lifetime misses; 14 lapses; 20d interval
+   - Anki sentence: No deberías azuzar a tu hermano cuando está molesto.
 
-9. **graznó**
-   - Base form: graznar
-   - Why selected: 13 lifetime misses; recent miss 8d, 19d; 10 lapses; short 6d interval
-   - Anki sentence: El cuervo graznó desde lo alto del árbol.
-
-10. **encarecidamente**
-   - Why selected: 9 lifetime misses; recent miss 9d; 5 lapses; short 8d interval
-   - Anki sentence: Le pidió encarecidamente que encontrara a su perro perdido.
+10. **incautar**
+   - Why selected: 19 lifetime misses; recent miss 24d, 29d; 11 lapses; short 7d interval
+   - Anki sentence: La policía decidió incautar las drogas ilegales.
