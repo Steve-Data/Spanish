@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-08",
-      "targets": [
-        "desaforado",
-        "desperdigados",
-        "verse abocado a",
-        "combado",
-        "embestir",
-        "avistamientos",
-        "disparatado",
-        "tiritar",
-        "revoloteaban",
-        "avezado"
-      ],
-      "generated_at": "2026-09-08T05:00:23"
-    },
-    {
       "date": "2026-09-09",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "incautar"
       ],
       "generated_at": "2026-11-07T05:00:25"
+    },
+    {
+      "date": "2026-11-08",
+      "targets": [
+        "desaforado",
+        "desbocado",
+        "se apretujó",
+        "afanarse",
+        "olor a encierro",
+        "transigir con",
+        "zamarrear",
+        "imputar",
+        "estar quebrado",
+        "prescindir de"
+      ],
+      "generated_at": "2026-11-08T05:00:25"
     }
   ]
 }
