@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-09",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "desperdigados",
-        "atenazar",
-        "calabozo",
-        "desenfrenado",
-        "aventar",
-        "hurgar",
-        "energúmeno",
-        "por despecho"
-      ],
-      "generated_at": "2026-09-09T05:00:23"
-    },
-    {
       "date": "2026-09-10",
       "targets": [
         "la soltura",
@@ -959,6 +943,22 @@
         "prescindir de"
       ],
       "generated_at": "2026-11-08T05:00:25"
+    },
+    {
+      "date": "2026-11-09",
+      "targets": [
+        "desaforado",
+        "están embobados",
+        "a desgano",
+        "se apretujó",
+        "no dar pie con bola",
+        "pasmada",
+        "recostarme",
+        "un berretín",
+        "achicarse",
+        "verse abocado a"
+      ],
+      "generated_at": "2026-11-09T05:00:23"
     }
   ]
 }
