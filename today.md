@@ -1,61 +1,60 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-11-09
+Updated: 2026-11-10
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
 1. **desaforado** - frantic; unrestrained; out of control
-2. **están embobados** - to be stunned; to be spellbound; to be dumbfounded (not: están embelezados)
-3. **a desgano** - reluctantly; unwillingly (not: a reacio)
-4. **se apretujó** - squeezed or huddled close
-5. **no dar pie con bola** - to be unable to get anything right; to be completely at a loss
-6. **pasmada** - stunned; amazed; bewildered; taken aback
-7. **recostarme** - to lean back; to recline
-8. **un berretín** - a fixation; a whim; a pet ambition (Arg)
-9. **achicarse** - to shrink; to get intimidated
-10. **verse abocado a** - to be driven or forced into
+2. **a desgano** - reluctantly; unwillingly (not: a reacio)
+3. **están embobados** - to be stunned; to be spellbound; to be dumbfounded (not: están embelezados)
+4. **la soltura** - ease; fluency; confident skill
+5. **embaucar** - to deceive; to swindle; to trick; to con
+6. **la ligereza** - carelessness; lack of seriousness; lightness
+7. **retozar** - to frolic; to romp; to play around
+8. **hacer tabla rasa** - to wipe the slate clean; to start afresh
+9. **desdichado** - unfortunate; wretched; unlucky; miserable (adj)
+10. **azorado** - flustered; bewildered; embarrassed
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
 1. **desaforado**
-   - Why selected: 27 lifetime misses; recent miss 22d, 30d, 30d; 13 lapses; short 4d interval
+   - Why selected: 27 lifetime misses; recent miss 10d, 23d, 23d; 13 lapses; short 4d interval
    - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
-2. **están embobados**
-   - Why selected: 33 lifetime misses; recent miss 9d, 11d, 19d; 27 lapses; short 1d interval
-   - Anki sentence: A veces, los estudiantes están embobados cuando comienzan a aprender un nuevo idioma.
-
-3. **a desgano**
-   - Why selected: 10 lifetime misses; recent miss 7d, 7d, 10d; 7 lapses; short 4d interval
+2. **a desgano**
+   - Why selected: 11 lifetime misses; recent miss 8d, 8d, 11d; 8 lapses; short 2d interval
    - Anki sentence: El oficial tomó la denuncia a desgano.
 
-4. **se apretujó**
-   - Base form: apretujarse
-   - Why selected: 11 lifetime misses; recent miss 18d, 18d, 18d; 4 lapses; short 4d interval
-   - Anki sentence: Para caber en el asiento, se apretujó junto a Beth.
+3. **están embobados**
+   - Why selected: 33 lifetime misses; recent miss 10d, 12d, 20d; 27 lapses; short 1d interval
+   - Anki sentence: A veces, los estudiantes están embobados cuando comienzan a aprender un nuevo idioma.
 
-5. **no dar pie con bola**
-   - Why selected: 11 lifetime misses; recent miss 0d, 13d, 19d; 4 lapses; short 2d interval
-   - Anki sentence: Los investigadores parecían no dar pie con bola.
+4. **la soltura**
+   - Why selected: 14 lifetime misses; recent miss 12d, 28d; 7 lapses; short 8d interval
+   - Anki sentence: Todos admiraban la soltura con la que tocaba el piano.
 
-6. **pasmada**
-   - Why selected: 19 lifetime misses; recent miss 5d, 28d; 15 lapses; short 6d interval
-   - Anki sentence: Al recibir la noticia, ella se quedó pasmada y no pudo hablar por unos minutos.
+5. **embaucar**
+   - Why selected: 34 lifetime misses; recent miss 13d, 17d, 20d; 22 lapses; short 2d interval
+   - Anki sentence: Es fácil embaucar a las personas cuando están distraídas.
 
-7. **recostarme**
-   - Why selected: 12 lifetime misses; recent miss 18d, 25d, 25d; 8 lapses; short 8d interval
-   - Anki sentence: Después de un largo día, me gusta recostarme en el sofá y leer un libro.
+6. **la ligereza**
+   - Why selected: 8 lifetime misses; recent miss 7d, 7d, 12d; short 6d interval
+   - Anki sentence: Me preocupó la ligereza con que tomó una decisión tan seria.
 
-8. **un berretín**
-   - Why selected: 9 lifetime misses; recent miss 14d, 14d; 2 lapses; short 6d interval
-   - Anki sentence: Desde joven tenía un berretín con aprender a volar.
+7. **retozar**
+   - Why selected: 17 lifetime misses; 7 lapses; short 12d interval
+   - Anki sentence: Los chicos salieron a retozar en el jardín.
 
-9. **achicarse**
-   - Why selected: 17 lifetime misses; recent miss 9d, 19d; 10 lapses; short 7d interval
-   - Anki sentence: No hay que achicarse frente a los desafíos.
+8. **hacer tabla rasa**
+   - Why selected: 6 lifetime misses; recent miss 2d, 3d, 3d; 4 lapses; short 2d interval
+   - Anki sentence: Decidieron hacer tabla rasa y empezar de nuevo.
 
-10. **verse abocado a**
-   - Why selected: 9 lifetime misses; 5 lapses; 18d interval
-   - Anki sentence: El proyecto parecía verse abocado a una quiebra inevitable.
+9. **desdichado**
+   - Why selected: 42 lifetime misses; recent miss 15d; 29 lapses; short 8d interval
+   - Anki sentence: Es desdichado no poder encontrar la felicidad en la vida.
+
+10. **azorado**
+   - Why selected: 24 lifetime misses; 13 lapses; 22d interval
+   - Anki sentence: El alumno quedó azorado cuando no supo responder la pregunta.

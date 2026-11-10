@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-10",
-      "targets": [
-        "la soltura",
-        "desaforado",
-        "verse abocado a",
-        "desperdigados",
-        "plasmar",
-        "el contrincante",
-        "combado",
-        "ociosas",
-        "irrebatible",
-        "aventar"
-      ],
-      "generated_at": "2026-09-10T05:00:24"
-    },
-    {
       "date": "2026-09-11",
       "targets": [
         "la soltura",
@@ -959,6 +943,22 @@
         "verse abocado a"
       ],
       "generated_at": "2026-11-09T05:00:23"
+    },
+    {
+      "date": "2026-11-10",
+      "targets": [
+        "desaforado",
+        "a desgano",
+        "están embobados",
+        "la soltura",
+        "embaucar",
+        "la ligereza",
+        "retozar",
+        "hacer tabla rasa",
+        "desdichado",
+        "azorado"
+      ],
+      "generated_at": "2026-11-10T05:00:24"
     }
   ]
 }
