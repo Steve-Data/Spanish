@@ -1,60 +1,60 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-11-10
+Updated: 2026-11-11
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
 1. **desaforado** - frantic; unrestrained; out of control
-2. **a desgano** - reluctantly; unwillingly (not: a reacio)
-3. **están embobados** - to be stunned; to be spellbound; to be dumbfounded (not: están embelezados)
+2. **están embobados** - to be stunned; to be spellbound; to be dumbfounded (not: están embelezados)
+3. **a desgano** - reluctantly; unwillingly (not: a reacio)
 4. **la soltura** - ease; fluency; confident skill
-5. **embaucar** - to deceive; to swindle; to trick; to con
-6. **la ligereza** - carelessness; lack of seriousness; lightness
-7. **retozar** - to frolic; to romp; to play around
-8. **hacer tabla rasa** - to wipe the slate clean; to start afresh
-9. **desdichado** - unfortunate; wretched; unlucky; miserable (adj)
-10. **azorado** - flustered; bewildered; embarrassed
+5. **por despecho** - out of spite; out of resentment
+6. **un chop** - a draft beer (Arg)
+7. **verse abocado a** - to be driven or forced into
+8. **pese a que** - even though; despite the fact that
+9. **recatada** - modest; reserved
+10. **descenso** - descent; decline
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
 1. **desaforado**
-   - Why selected: 27 lifetime misses; recent miss 10d, 23d, 23d; 13 lapses; short 4d interval
+   - Why selected: 27 lifetime misses; recent miss 11d, 24d, 24d; 13 lapses; short 5d interval
    - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
-2. **a desgano**
-   - Why selected: 11 lifetime misses; recent miss 8d, 8d, 11d; 8 lapses; short 2d interval
-   - Anki sentence: El oficial tomó la denuncia a desgano.
-
-3. **están embobados**
-   - Why selected: 33 lifetime misses; recent miss 10d, 12d, 20d; 27 lapses; short 1d interval
+2. **están embobados**
+   - Why selected: 34 lifetime misses; recent miss 1d, 11d, 13d; 28 lapses; short 1d interval
    - Anki sentence: A veces, los estudiantes están embobados cuando comienzan a aprender un nuevo idioma.
 
+3. **a desgano**
+   - Why selected: 11 lifetime misses; recent miss 9d, 9d, 12d; 8 lapses; short 2d interval
+   - Anki sentence: El oficial tomó la denuncia a desgano.
+
 4. **la soltura**
-   - Why selected: 14 lifetime misses; recent miss 12d, 28d; 7 lapses; short 8d interval
+   - Why selected: 14 lifetime misses; recent miss 13d, 29d; 7 lapses; short 8d interval
    - Anki sentence: Todos admiraban la soltura con la que tocaba el piano.
 
-5. **embaucar**
-   - Why selected: 34 lifetime misses; recent miss 13d, 17d, 20d; 22 lapses; short 2d interval
-   - Anki sentence: Es fácil embaucar a las personas cuando están distraídas.
+5. **por despecho**
+   - Why selected: 38 lifetime misses; recent miss 2d, 4d; 27 lapses; short 2d interval
+   - Anki sentence: Ella decidió ir a la fiesta por despecho, ya que no quería quedarse en casa sola.
 
-6. **la ligereza**
-   - Why selected: 8 lifetime misses; recent miss 7d, 7d, 12d; short 6d interval
-   - Anki sentence: Me preocupó la ligereza con que tomó una decisión tan seria.
+6. **un chop**
+   - Why selected: 6 lifetime misses; recent miss 2d, 6d; 5 lapses; short 2d interval
+   - Anki sentence: Pidió un chop para acompañar la comida.
 
-7. **retozar**
-   - Why selected: 17 lifetime misses; 7 lapses; short 12d interval
-   - Anki sentence: Los chicos salieron a retozar en el jardín.
+7. **verse abocado a**
+   - Why selected: 9 lifetime misses; 5 lapses; 18d interval
+   - Anki sentence: El proyecto parecía verse abocado a una quiebra inevitable.
 
-8. **hacer tabla rasa**
-   - Why selected: 6 lifetime misses; recent miss 2d, 3d, 3d; 4 lapses; short 2d interval
-   - Anki sentence: Decidieron hacer tabla rasa y empezar de nuevo.
+8. **pese a que**
+   - Why selected: 8 lifetime misses; recent miss 20d, 27d, 27d; 4 lapses; short 9d interval
+   - Anki sentence: Salieron a caminar pese a que estaba lloviendo.
 
-9. **desdichado**
-   - Why selected: 42 lifetime misses; recent miss 15d; 29 lapses; short 8d interval
-   - Anki sentence: Es desdichado no poder encontrar la felicidad en la vida.
+9. **recatada**
+   - Why selected: 16 lifetime misses; recent miss 3d, 13d; 9 lapses; short 4d interval
+   - Anki sentence: Siempre ha sido una mujer recatada y discreta.
 
-10. **azorado**
-   - Why selected: 24 lifetime misses; 13 lapses; 22d interval
-   - Anki sentence: El alumno quedó azorado cuando no supo responder la pregunta.
+10. **descenso**
+   - Why selected: 7 lifetime misses; recent miss 6d, 25d, 26d; 6 lapses; short 4d interval
+   - Anki sentence: El descenso de la temperatura puede hacer que los días sean más fríos.

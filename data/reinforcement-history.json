@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-11",
-      "targets": [
-        "la soltura",
-        "desaforado",
-        "verse abocado a",
-        "azorado",
-        "el barquinazo",
-        "estar despachado",
-        "peripecias",
-        "desmenuzar",
-        "dentro de todo",
-        "trastabillar"
-      ],
-      "generated_at": "2026-09-11T05:00:25"
-    },
-    {
       "date": "2026-09-12",
       "targets": [
         "la soltura",
@@ -959,6 +943,22 @@
         "azorado"
       ],
       "generated_at": "2026-11-10T05:00:24"
+    },
+    {
+      "date": "2026-11-11",
+      "targets": [
+        "desaforado",
+        "están embobados",
+        "a desgano",
+        "la soltura",
+        "por despecho",
+        "un chop",
+        "verse abocado a",
+        "pese a que",
+        "recatada",
+        "descenso"
+      ],
+      "generated_at": "2026-11-11T05:00:25"
     }
   ]
 }
