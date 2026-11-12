@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-12",
-      "targets": [
-        "la soltura",
-        "desaforado",
-        "verse abocado a",
-        "atenazar",
-        "escamosa",
-        "andar a las corridas",
-        "acalambrarse",
-        "encogidos",
-        "atrevida",
-        "avezado"
-      ],
-      "generated_at": "2026-09-12T05:00:23"
-    },
-    {
       "date": "2026-09-13",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "descenso"
       ],
       "generated_at": "2026-11-11T05:00:25"
+    },
+    {
+      "date": "2026-11-12",
+      "targets": [
+        "desaforado",
+        "con todo",
+        "están embobados",
+        "desparramada",
+        "desbocado",
+        "desdeñosa",
+        "ociosas",
+        "un facón",
+        "el barquinazo",
+        "se desbocó"
+      ],
+      "generated_at": "2026-11-12T05:00:25"
     }
   ]
 }
