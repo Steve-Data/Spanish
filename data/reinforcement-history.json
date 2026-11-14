@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-14",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "el caño del arma",
-        "estar tirado",
-        "extrañada",
-        "internarse",
-        "idónea",
-        "desde luego",
-        "repantigadas",
-        "azuzar"
-      ],
-      "generated_at": "2026-09-14T05:00:23"
-    },
-    {
       "date": "2026-09-15",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "a destajo"
       ],
       "generated_at": "2026-11-13T05:00:34"
+    },
+    {
+      "date": "2026-11-14",
+      "targets": [
+        "desaforado",
+        "con todo",
+        "están embobados",
+        "refunfuñar",
+        "desbocado",
+        "la ligereza",
+        "la colilla",
+        "entumecidos",
+        "el barquinazo",
+        "verse abocado a"
+      ],
+      "generated_at": "2026-11-14T05:00:25"
     }
   ]
 }
