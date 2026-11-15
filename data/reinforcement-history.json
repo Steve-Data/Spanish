@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-15",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "engreído",
-        "trinar",
-        "amonestación",
-        "descarriado",
-        "repicar",
-        "escabroso",
-        "dirimir",
-        "manada"
-      ],
-      "generated_at": "2026-09-15T05:00:24"
-    },
-    {
       "date": "2026-09-16",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "verse abocado a"
       ],
       "generated_at": "2026-11-14T05:00:25"
+    },
+    {
+      "date": "2026-11-15",
+      "targets": [
+        "desaforado",
+        "con todo",
+        "están embobados",
+        "no dar pie con bola",
+        "aterida",
+        "irrebatible",
+        "afanarse",
+        "mecer",
+        "altaneras",
+        "escabroso"
+      ],
+      "generated_at": "2026-11-15T05:00:24"
     }
   ]
 }
