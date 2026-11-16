@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-16",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "engreído",
-        "el caño del arma",
-        "a duras penas",
-        "el canto del cisne",
-        "disparatado",
-        "empatizar",
-        "calabozo",
-        "pasmada"
-      ],
-      "generated_at": "2026-09-16T05:00:30"
-    },
-    {
       "date": "2026-09-17",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "escabroso"
       ],
       "generated_at": "2026-11-15T05:00:24"
+    },
+    {
+      "date": "2026-11-16",
+      "targets": [
+        "desaforado",
+        "están embobados",
+        "con todo",
+        "susodicho",
+        "salir despedido",
+        "porque sí",
+        "aprobar",
+        "estar quebrado",
+        "imputar",
+        "avalar"
+      ],
+      "generated_at": "2026-11-16T05:00:24"
     }
   ]
 }
