@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-17",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "engreído",
-        "verse abocado a",
-        "embaucar",
-        "el resquicio",
-        "agredido",
-        "ociosas",
-        "apresar",
-        "desbordado"
-      ],
-      "generated_at": "2026-09-17T05:00:31"
-    },
-    {
       "date": "2026-09-18",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "avalar"
       ],
       "generated_at": "2026-11-16T05:00:24"
+    },
+    {
+      "date": "2026-11-17",
+      "targets": [
+        "desaforado",
+        "están embobados",
+        "se apretujó",
+        "embaucar",
+        "hurtar",
+        "empañar",
+        "ociosas",
+        "renuencia",
+        "entumecidos",
+        "transigir con"
+      ],
+      "generated_at": "2026-11-17T05:00:28"
     }
   ]
 }
