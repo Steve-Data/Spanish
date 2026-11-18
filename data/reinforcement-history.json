@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-18",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "engreído",
-        "el barquinazo",
-        "aplastado",
-        "extrañada",
-        "darse pena a sí mismo",
-        "causar estragos",
-        "atrevida",
-        "aventar"
-      ],
-      "generated_at": "2026-09-18T05:00:24"
-    },
-    {
       "date": "2026-09-19",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "transigir con"
       ],
       "generated_at": "2026-11-17T05:00:28"
+    },
+    {
+      "date": "2026-11-18",
+      "targets": [
+        "desaforado",
+        "se apretujó",
+        "desparramada",
+        "desbocado",
+        "rebotar",
+        "encarecidamente",
+        "de imprevisto",
+        "vislumbrar",
+        "mecer",
+        "atenazar"
+      ],
+      "generated_at": "2026-11-18T05:00:25"
     }
   ]
 }
