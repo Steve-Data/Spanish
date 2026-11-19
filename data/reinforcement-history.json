@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-19",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "olor a encierro",
-        "engreído",
-        "combado",
-        "apabullante",
-        "hacer tabla rasa",
-        "desde luego",
-        "estar abarrotado",
-        "acérrimo"
-      ],
-      "generated_at": "2026-09-19T05:00:23"
-    },
-    {
       "date": "2026-09-20",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "atenazar"
       ],
       "generated_at": "2026-11-18T05:00:25"
+    },
+    {
+      "date": "2026-11-19",
+      "targets": [
+        "desaforado",
+        "se apretujó",
+        "susodicho",
+        "desbocado",
+        "con todo",
+        "desparramada",
+        "la aparición",
+        "soberbio",
+        "afanarse",
+        "desbordar"
+      ],
+      "generated_at": "2026-11-19T05:00:25"
     }
   ]
 }
