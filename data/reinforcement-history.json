@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-20",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "olor a encierro",
-        "desdeñosa",
-        "echarse atrás",
-        "estar despachado",
-        "pérfida",
-        "el canto del cisne",
-        "avispado",
-        "estar quebrado"
-      ],
-      "generated_at": "2026-09-20T05:00:24"
-    },
-    {
       "date": "2026-09-21",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "desbordar"
       ],
       "generated_at": "2026-11-19T05:00:25"
+    },
+    {
+      "date": "2026-11-20",
+      "targets": [
+        "desaforado",
+        "susodicho",
+        "están embobados",
+        "la soltura",
+        "no dar pie con bola",
+        "roñosa",
+        "hurtar",
+        "incidir en",
+        "escultórica",
+        "extrañada"
+      ],
+      "generated_at": "2026-11-20T05:00:25"
     }
   ]
 }
