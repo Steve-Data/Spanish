@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-21",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "olor a encierro",
-        "desperdigados",
-        "increpar",
-        "jirón",
-        "azuzar",
-        "el canto del cisne",
-        "desde luego",
-        "dirimir"
-      ],
-      "generated_at": "2026-09-21T05:00:23"
-    },
-    {
       "date": "2026-09-22",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "extrañada"
       ],
       "generated_at": "2026-11-20T05:00:25"
+    },
+    {
+      "date": "2026-11-21",
+      "targets": [
+        "desaforado",
+        "guardarse de",
+        "desbocado",
+        "susodicho",
+        "no dar pie con bola",
+        "refunfuñar",
+        "certera",
+        "se desbocó",
+        "sobremanera",
+        "la apuró"
+      ],
+      "generated_at": "2026-11-21T05:00:24"
     }
   ]
 }
