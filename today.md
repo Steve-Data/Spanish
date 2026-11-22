@@ -1,63 +1,60 @@
 # Spanish Reinforcement Words
 
-Updated: 2026-11-21
+Updated: 2026-11-22
 
 Use these exact Spanish targets in today's Spanish practice. Work them naturally into exercises.
 
 1. **desaforado** - frantic; unrestrained; out of control
 2. **guardarse de** - to take care not to; to refrain from
 3. **desbocado** - out of control; runaway; baggy
-4. **susodicho** - aforementioned
-5. **no dar pie con bola** - to be unable to get anything right; to be completely at a loss
-6. **refunfuñar** - to grumble; to mutter complaints
-7. **certera** - accurate; sure; unerring
-8. **se desbocó** - to run away; to bolt
-9. **sobremanera** - excessively; greatly
-10. **la apuró** - drained it; finished the last of it
+4. **abocarse a** - to devote oneself to; to focus on
+5. **un boquete** - a large hole; a breach
+6. **desdeñosa** - disdainful; scornful; contemptuous (adj)
+7. **lo indecible** - an indescribable amount; beyond words
+8. **afanarse** - to strive; to toil; to work hard (not: esmerarse)
+9. **a la mala** - the hard way; through an unpleasant experience
+10. **vislumbrar** - to glimpse; to discern; to catch sight of
 
 ## Context
 
 These were selected from Anki review history, with priority for recent misses, repeated lapses, and short intervals.
 
 1. **desaforado**
-   - Why selected: 27 lifetime misses; recent miss 18d, 21d, 21d; 13 lapses; short 8d interval
+   - Why selected: 27 lifetime misses; recent miss 19d, 22d, 22d; 13 lapses; short 8d interval
    - Anki sentence: Salió del bosque gritando desaforado y pidiendo ayuda.
 
 2. **guardarse de**
-   - Why selected: 8 lifetime misses; recent miss 1d, 3d, 5d; 3 lapses; short 1d interval
+   - Why selected: 8 lifetime misses; recent miss 2d, 4d, 6d; 3 lapses; short 1d interval
    - Anki sentence: Prefirió guardarse de revelar el secreto.
 
 3. **desbocado**
-   - Why selected: 31 lifetime misses; recent miss 0d, 5d; 14 lapses; short 2d interval
+   - Why selected: 31 lifetime misses; recent miss 1d, 6d; 14 lapses; short 3d interval
    - Anki sentence: El caballo corrió desbocado por la calle.
 
-4. **susodicho**
-   - Why selected: 14 lifetime misses; recent miss 26d, 26d, 28d; 8 lapses; short 3d interval
-   - Anki sentence: Cuando el susodicho dejó a la otra, ya era tarde.
+4. **abocarse a**
+   - Why selected: 27 lifetime misses; recent miss 6d, 7d, 8d; 14 lapses; short 4d interval
+   - Anki sentence: Después de la reunión, el equipo decidió abocarse a resolver el problema.
 
-5. **no dar pie con bola**
-   - Why selected: 12 lifetime misses; recent miss 10d, 12d, 25d; 5 lapses; short 5d interval
-   - Anki sentence: Los investigadores parecían no dar pie con bola.
+5. **un boquete**
+   - Why selected: 4 lifetime misses; recent miss 4d, 7d, 7d; 1 lapse; short 2d interval
+   - Anki sentence: Escaparon por un boquete en la pared.
 
-6. **refunfuñar**
-   - Why selected: 16 lifetime misses; recent miss 9d, 18d, 29d; 9 lapses; short 5d interval
-   - Anki sentence: El anciano empezó a refunfuñar cuando apagaron la televisión.
+6. **desdeñosa**
+   - Why selected: 38 lifetime misses; recent miss 15d, 15d; 25 lapses; short 8d interval
+   - Anki sentence: Es difícil no sentirse herido cuando alguien es tan desdeñosa al hablar.
 
-7. **certera**
-   - Base form: certero
-   - Why selected: 6 lifetime misses; recent miss 16d, 16d, 29d; 3 lapses; short 1d interval
-   - Anki sentence: Su deducción fue certera y permitió resolver el caso.
+7. **lo indecible**
+   - Why selected: 7 lifetime misses; recent miss 4d, 8d, 22d; 4 lapses; short 3d interval
+   - Anki sentence: La familia sufrió lo indecible durante aquellos meses.
 
-8. **se desbocó**
-   - Base form: desbocarse
-   - Why selected: 22 lifetime misses; recent miss 0d, 14d; 13 lapses; short 2d interval
-   - Anki sentence: Al ver al perro suelto, el caballo se desbocó.
+8. **afanarse**
+   - Why selected: 24 lifetime misses; recent miss 15d, 21d; 18 lapses; short 7d interval
+   - Anki sentence: Ella afanarse por estudiar cada día para mejorar en sus clases.
 
-9. **sobremanera**
-   - Why selected: 16 lifetime misses; recent miss 17d, 17d, 17d; 12 lapses; short 8d interval
-   - Anki sentence: Ella disfruta pintar sobremanera, ya que le permite expresar sus emociones.
+9. **a la mala**
+   - Why selected: 4 lifetime misses; recent miss 6d, 7d, 7d; 2 lapses; short 2d interval
+   - Anki sentence: Aprendió a la mala que no debía confiar en cualquiera.
 
-10. **la apuró**
-   - Base form: apurar
-   - Why selected: 5 lifetime misses; recent miss 16d, 16d, 30d; 2 lapses; short 6d interval
-   - Anki sentence: Le quedaba poca cerveza, así que inclinó la botella y la apuró.
+10. **vislumbrar**
+   - Why selected: 18 lifetime misses; recent miss 20d; 14 lapses; short 11d interval
+   - Anki sentence: A veces, es bueno vislumbrar el futuro para planear mejor nuestras metas.
