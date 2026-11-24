@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-24",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "no dar pie con bola",
-        "el caño del arma",
-        "amonestación",
-        "estar reventado",
-        "qué guachada",
-        "atrevida",
-        "encabronado",
-        "estar abarrotado"
-      ],
-      "generated_at": "2026-09-24T05:00:24"
-    },
-    {
       "date": "2026-09-25",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "fajo"
       ],
       "generated_at": "2026-11-23T05:00:24"
+    },
+    {
+      "date": "2026-11-24",
+      "targets": [
+        "desaforado",
+        "desbordar",
+        "desbocado",
+        "la soltura",
+        "darse de baja",
+        "ociosas",
+        "puterío",
+        "irrebatible",
+        "un facón",
+        "zamarrear"
+      ],
+      "generated_at": "2026-11-24T05:00:26"
     }
   ]
 }
