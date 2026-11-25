@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-25",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "no dar pie con bola",
-        "olor a encierro",
-        "engreído",
-        "refunfuñar",
-        "desperdigados",
-        "ociosas",
-        "el camorrista",
-        "internarse"
-      ],
-      "generated_at": "2026-09-25T05:00:30"
-    },
-    {
       "date": "2026-09-26",
       "targets": [
         "desaforado",
@@ -959,6 +943,22 @@
         "zamarrear"
       ],
       "generated_at": "2026-11-24T05:00:26"
+    },
+    {
+      "date": "2026-11-25",
+      "targets": [
+        "desaforado",
+        "desbordar",
+        "aterida",
+        "darse de baja",
+        "susodicho",
+        "encarecidamente",
+        "por las buenas",
+        "hacer tabla rasa",
+        "un berretín",
+        "escabroso"
+      ],
+      "generated_at": "2026-11-25T05:00:26"
     }
   ]
 }
