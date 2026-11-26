@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-26",
-      "targets": [
-        "desaforado",
-        "la soltura",
-        "una andanada",
-        "no dar pie con bola",
-        "alevoso",
-        "el camorrista",
-        "constatar",
-        "idónea",
-        "desdichado",
-        "atrevida"
-      ],
-      "generated_at": "2026-09-26T05:00:23"
-    },
-    {
       "date": "2026-09-27",
       "targets": [
         "atenazar",
@@ -959,6 +943,22 @@
         "escabroso"
       ],
       "generated_at": "2026-11-25T05:00:26"
+    },
+    {
+      "date": "2026-11-26",
+      "targets": [
+        "desaforado",
+        "desbordar",
+        "a desgano",
+        "no dar pie con bola",
+        "susodicho",
+        "con todo",
+        "farragoso",
+        "los aditamentos",
+        "no estar para hacer algo",
+        "disparador"
+      ],
+      "generated_at": "2026-11-26T05:00:25"
     }
   ]
 }
