@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-27",
-      "targets": [
-        "atenazar",
-        "desaforado",
-        "un vericueto",
-        "una andanada",
-        "anonadado",
-        "porfiada",
-        "repantigadas",
-        "pérfida",
-        "dirimir",
-        "acoplarse"
-      ],
-      "generated_at": "2026-09-27T05:00:25"
-    },
-    {
       "date": "2026-09-28",
       "targets": [
         "atenazar",
@@ -959,6 +943,22 @@
         "disparador"
       ],
       "generated_at": "2026-11-26T05:00:25"
+    },
+    {
+      "date": "2026-11-27",
+      "targets": [
+        "desbordar",
+        "darse de baja",
+        "desaforado",
+        "embaucar",
+        "el mingitorio",
+        "internarse",
+        "una pepa",
+        "pasmada",
+        "cuneta",
+        "certera"
+      ],
+      "generated_at": "2026-11-27T05:00:25"
     }
   ]
 }
