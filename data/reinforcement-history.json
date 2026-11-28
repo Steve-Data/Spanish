@@ -1,22 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-09-28",
-      "targets": [
-        "atenazar",
-        "un vericueto",
-        "la soltura",
-        "el barquinazo",
-        "olor a encierro",
-        "hacer buches",
-        "desbocado",
-        "peripecias",
-        "darse pena a sí mismo",
-        "alambrado"
-      ],
-      "generated_at": "2026-09-28T05:00:29"
-    },
-    {
       "date": "2026-09-29",
       "targets": [
         "atenazar",
@@ -959,6 +943,22 @@
         "certera"
       ],
       "generated_at": "2026-11-27T05:00:25"
+    },
+    {
+      "date": "2026-11-28",
+      "targets": [
+        "a desgano",
+        "darse manija",
+        "desbordar",
+        "están embobados",
+        "el piringundín",
+        "un vericueto",
+        "hurtar",
+        "urdir",
+        "puterío",
+        "desenmarañar"
+      ],
+      "generated_at": "2026-11-28T05:00:24"
     }
   ]
 }
